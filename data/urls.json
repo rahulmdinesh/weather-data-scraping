@@ -1,0 +1,3572 @@
+{
+  "North America": {
+    "url": "https://en.climate-data.org/continent/north-america/",
+    "countries": {
+      "Anguilla": {
+        "url": "https://en.climate-data.org/north-america/anguilla-193/",
+        "cities": {
+          "The Valley": {
+            "url": "https://en.climate-data.org/north-america/anguilla/the-valley/the-valley-766580/"
+          },
+          "East End": {
+            "url": "https://en.climate-data.org/north-america/anguilla/east-end/east-end-789582/"
+          },
+          "Long Bay Village": {
+            "url": "https://en.climate-data.org/north-america/anguilla/long-bay-village/long-bay-village-789580/"
+          },
+          "Blowing Point Village": {
+            "url": "https://en.climate-data.org/north-america/anguilla/blowing-point-village/blowing-point-village-789577/"
+          },
+          "South Hill": {
+            "url": "https://en.climate-data.org/north-america/anguilla/south-hill/south-hill-789578/"
+          }
+        }
+      },
+      "Antigua and Barbuda": {
+        "url": "https://en.climate-data.org/north-america/antigua-and-barbuda-165/",
+        "cities": {
+          "Hodges Bay": {
+            "url": "https://en.climate-data.org/north-america/antigua-and-barbuda/hodges-bay/hodges-bay-152630/"
+          },
+          "St. John's": {
+            "url": "https://en.climate-data.org/north-america/antigua-and-barbuda/st-john-s/st-john-s-44440/"
+          },
+          "All Saints": {
+            "url": "https://en.climate-data.org/north-america/antigua-and-barbuda/all-saints/all-saints-44441/"
+          },
+          "English Harbour": {
+            "url": "https://en.climate-data.org/north-america/antigua-and-barbuda/english-harbour/english-harbour-21898/"
+          },
+          "Codrington": {
+            "url": "https://en.climate-data.org/north-america/antigua-and-barbuda/codrington/codrington-46350/"
+          }
+        }
+      },
+      "Barbados": {
+        "url": "https://en.climate-data.org/north-america/barbados-13/",
+        "cities": {
+          "Speightstown": {
+            "url": "https://en.climate-data.org/north-america/barbados/speightstown/speightstown-44949/"
+          },
+          "Holetown": {
+            "url": "https://en.climate-data.org/north-america/barbados/holetown/holetown-44937/"
+          },
+          "Bridgetown": {
+            "url": "https://en.climate-data.org/north-america/barbados/bridgetown/bridgetown-2875/"
+          },
+          "Thicket": {
+            "url": "https://en.climate-data.org/north-america/barbados/thicket/thicket-553481/"
+          },
+          "Scarborough": {
+            "url": "https://en.climate-data.org/north-america/barbados/scarborough/scarborough-326619/"
+          },
+          "Redmans": {
+            "url": "https://en.climate-data.org/north-america/barbados/redmans/redmans-324341/"
+          },
+          "Welchman Hall": {
+            "url": "https://en.climate-data.org/north-america/barbados/welchman-hall/welchman-hall-324221/"
+          },
+          "Orange Hill": {
+            "url": "https://en.climate-data.org/north-america/barbados/orange-hill/orange-hill-324339/"
+          },
+          "Lemon Arbour": {
+            "url": "https://en.climate-data.org/north-america/barbados/lemon-arbour/lemon-arbour-505960/"
+          }
+        }
+      },
+      "Belize": {
+        "url": "https://en.climate-data.org/north-america/belize-36/",
+        "cities": {
+          "Belize City": {
+            "url": "https://en.climate-data.org/north-america/belize/belize-district/belize-city-3528/"
+          },
+          "Belmopan": {
+            "url": "https://en.climate-data.org/north-america/belize/cayo/belmopan-3527/"
+          },
+          "Dangriga": {
+            "url": "https://en.climate-data.org/north-america/belize/stann-creek/dangriga-30054/"
+          },
+          "Ladyville": {
+            "url": "https://en.climate-data.org/north-america/belize/belize-district/ladyville-565539/"
+          },
+          "Roaring Creek": {
+            "url": "https://en.climate-data.org/north-america/belize/cayo/roaring-creek-204897/"
+          },
+          "Punta Gorda": {
+            "url": "https://en.climate-data.org/north-america/belize/toledo/punta-gorda-223092/"
+          },
+          "Hopkins": {
+            "url": "https://en.climate-data.org/north-america/belize/stann-creek/hopkins-436879/"
+          },
+          "Armenia": {
+            "url": "https://en.climate-data.org/north-america/belize/cayo/armenia-789159/"
+          },
+          "Hopeville": {
+            "url": "https://en.climate-data.org/north-america/belize/toledo/hopeville-789176/"
+          },
+          "Dolores": {
+            "url": "https://en.climate-data.org/north-america/belize/toledo/dolores-789351/"
+          },
+          "San Ignacio": {
+            "url": "https://en.climate-data.org/north-america/belize/cayo/san-ignacio-30046/"
+          },
+          "San Pedro": {
+            "url": "https://en.climate-data.org/north-america/belize/belize-district/san-pedro-48465/"
+          },
+          "Corozal": {
+            "url": "https://en.climate-data.org/north-america/belize/corozal/corozal-30047/"
+          },
+          "Sarteneja": {
+            "url": "https://en.climate-data.org/north-america/belize/corozal/sarteneja-520228/"
+          },
+          "Caye Caulker Village": {
+            "url": "https://en.climate-data.org/north-america/belize/belize-district/caye-caulker-village-332102/"
+          }
+        }
+      },
+      "Bermuda": {
+        "url": "https://en.climate-data.org/north-america/bermuda-195/",
+        "cities": {
+          "Hamilton": {
+            "url": "https://en.climate-data.org/north-america/bermuda/hamilton/hamilton-714936/"
+          },
+          "Somerset": {
+            "url": "https://en.climate-data.org/north-america/bermuda/somerset/somerset-223727/"
+          },
+          "Flatts": {
+            "url": "https://en.climate-data.org/north-america/bermuda/flatts/flatts-291672/"
+          },
+          "St. George's": {
+            "url": "https://en.climate-data.org/north-america/bermuda/st-george-s/st-george-s-31634/"
+          }
+        }
+      },
+      "British Virgin Islands": {
+        "url": "https://en.climate-data.org/north-america/british-virgin-islands-100/",
+        "cities": {
+          "Road Town": {
+            "url": "https://en.climate-data.org/north-america/british-virgin-islands/road-town/road-town-28879/"
+          },
+          "East End": {
+            "url": "https://en.climate-data.org/north-america/british-virgin-islands/east-end/east-end-766617/"
+          },
+          "Little Mt.": {
+            "url": "https://en.climate-data.org/north-america/british-virgin-islands/little-mt/little-mt-766616/"
+          },
+          "Spanish Town": {
+            "url": "https://en.climate-data.org/north-america/british-virgin-islands/spanish-town/spanish-town-28881/"
+          }
+        }
+      },
+      "Canada": {
+        "url": "https://en.climate-data.org/north-america/canada-116/",
+        "cities": {
+          "Toronto": {
+            "url": "https://en.climate-data.org/north-america/canada/ontario/toronto-53/"
+          },
+          "Montreal": {
+            "url": "https://en.climate-data.org/north-america/canada/quebec/montreal-3704/"
+          },
+          "Calgary": {
+            "url": "https://en.climate-data.org/north-america/canada/alberta/calgary-390/"
+          },
+          "Ottawa": {
+            "url": "https://en.climate-data.org/north-america/canada/ontario/ottawa-56/"
+          },
+          "Edmonton": {
+            "url": "https://en.climate-data.org/north-america/canada/alberta/edmonton-610/"
+          },
+          "Red Deer": {
+            "url": "https://en.climate-data.org/north-america/canada/alberta/red-deer-595/"
+          },
+          "Airdrie": {
+            "url": "https://en.climate-data.org/north-america/canada/alberta/airdrie-391/"
+          },
+          "Whitehorse": {
+            "url": "https://en.climate-data.org/north-america/canada/yukon/whitehorse-871483/"
+          },
+          "Fort St. John": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/fort-st-john-871545/"
+          },
+          "Thompson": {
+            "url": "https://en.climate-data.org/north-america/canada/manitoba/thompson-6113/"
+          },
+          "Kamloops": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/kamloops-6097/"
+          },
+          "Medicine Hat": {
+            "url": "https://en.climate-data.org/north-america/canada/alberta/medicine-hat-598/"
+          },
+          "Penticton": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/penticton-11616/"
+          },
+          "Swift Current": {
+            "url": "https://en.climate-data.org/north-america/canada/saskatchewan/swift-current-871788/"
+          },
+          "Brooks": {
+            "url": "https://en.climate-data.org/north-america/canada/alberta/brooks-597/"
+          },
+          "Langley Township": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/langley-968/"
+          },
+          "Chilliwack": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/chilliwack-967/"
+          },
+          "Campbell River": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/campbell-river-871497/"
+          },
+          "Langley": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/langley-968/"
+          },
+          "Port Hardy": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/port-hardy-10634/"
+          },
+          "Vancouver": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/vancouver-963/"
+          },
+          "Surrey": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/surrey-4345/"
+          },
+          "Burnaby": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/burnaby-964/"
+          },
+          "Richmond": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/richmond-976/"
+          },
+          "Saanich": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/saanich-57261/"
+          },
+          "Yellowknife": {
+            "url": "https://en.climate-data.org/north-america/canada/northwest-territories/yellowknife-871609/"
+          },
+          "Smithers": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/smithers-55455/"
+          },
+          "Haines Junction": {
+            "url": "https://en.climate-data.org/north-america/canada/yukon/haines-junction-718709/"
+          },
+          "Telegraph Creek": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/telegraph-creek-12085/"
+          },
+          "Carmacks": {
+            "url": "https://en.climate-data.org/north-america/canada/yukon/carmacks-871481/"
+          },
+          "Windsor": {
+            "url": "https://en.climate-data.org/north-america/canada/ontario/windsor-3064/"
+          },
+          "Amherstburg": {
+            "url": "https://en.climate-data.org/north-america/canada/ontario/amherstburg-767981/"
+          },
+          "Chatham": {
+            "url": "https://en.climate-data.org/north-america/canada/ontario/chatham-26036/"
+          },
+          "Kingsville": {
+            "url": "https://en.climate-data.org/north-america/canada/ontario/kingsville-203300/"
+          },
+          "Wheatley": {
+            "url": "https://en.climate-data.org/north-america/canada/ontario/wheatley-27666/"
+          },
+          "Whistler": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/whistler-3327/"
+          },
+          "Whistler Village": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/whistler-village-505802/"
+          },
+          "Pemberton": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/pemberton-705750/"
+          },
+          "Lytton": {
+            "url": "https://en.climate-data.org/north-america/canada/british-columbia/lytton-12126/"
+          }
+        }
+      },
+      "Cayman Islands": {
+        "url": "https://en.climate-data.org/north-america/cayman-islands-24/",
+        "cities": {
+          "George Town": {
+            "url": "https://en.climate-data.org/north-america/cayman-islands/george-town/george-town-5581/"
+          },
+          "West Bay": {
+            "url": "https://en.climate-data.org/north-america/cayman-islands/west-bay/west-bay-28913/"
+          },
+          "Pease Bay": {
+            "url": "https://en.climate-data.org/north-america/cayman-islands/pease-bay/pease-bay-204184/"
+          },
+          "Spot Bay": {
+            "url": "https://en.climate-data.org/north-america/cayman-islands/spot-bay/spot-bay-481719/"
+          },
+          "West End": {
+            "url": "https://en.climate-data.org/north-america/cayman-islands/west-end/west-end-51342/"
+          }
+        }
+      },
+      "Costa Rica": {
+        "url": "https://en.climate-data.org/north-america/costa-rica-43/",
+        "cities": {
+          "San José": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/alajuela/san-jose-1888/"
+          },
+          "Alajuela": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/alajuela/alajuela-28494/"
+          },
+          "Heredia": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/heredia/heredia-3443/"
+          },
+          "Puntarenas": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/puntarenas/puntarenas-28554/"
+          },
+          "Liberia": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/guanacaste/liberia-19500/"
+          },
+          "San Isidro de El General": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/san-jose/san-isidro-de-el-general-34219/"
+          },
+          "Quepos": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/puntarenas/quepos-28571/"
+          },
+          "Grecia": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/alajuela/grecia-29747/"
+          },
+          "San Vito": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/puntarenas/san-vito-51729/"
+          },
+          "Parrita": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/puntarenas/parrita-29040/"
+          },
+          "Limón": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/limon/limon-19509/"
+          },
+          "Ciudad Quesada": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/alajuela/ciudad-quesada-31915/"
+          },
+          "Turrialba": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/cartago/turrialba-28663/"
+          },
+          "Puerto Viejo": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/heredia/puerto-viejo-44971/"
+          },
+          "La Fortuna": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/alajuela/la-fortuna-19503/"
+          },
+          "Santa María": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/san-jose/santa-maria-410906/"
+          },
+          "Sabana Redonda de Poás": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/alajuela/sabana-redonda-de-poas-710237/"
+          },
+          "Cartago": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/cartago/cartago-3468/"
+          },
+          "San Rafael": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/cartago/san-rafael-28929/"
+          },
+          "El Tejar": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/cartago/el-tejar-49192/"
+          },
+          "Santa Elena": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/puntarenas/santa-elena-987064/"
+          },
+          "San Pedro": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/san-jose/san-pedro-873996/"
+          },
+          "Sacramento": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/heredia/sacramento-789340/"
+          },
+          "Vara Blanca": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/heredia/vara-blanca-323746/"
+          },
+          "Copey": {
+            "url": "https://en.climate-data.org/north-america/costa-rica/san-jose/copey-1028079/"
+          }
+        }
+      },
+      "Cuba": {
+        "url": "https://en.climate-data.org/north-america/cuba-18/",
+        "cities": {
+          "Havana": {
+            "url": "https://en.climate-data.org/north-america/cuba/havana/havana-229/"
+          },
+          "Santiago de Cuba": {
+            "url": "https://en.climate-data.org/north-america/cuba/santiago-de-cuba/santiago-de-cuba-3206/"
+          },
+          "Cienfuegos": {
+            "url": "https://en.climate-data.org/north-america/cuba/cienfuegos/cienfuegos-3199/"
+          },
+          "Camagüey": {
+            "url": "https://en.climate-data.org/north-america/cuba/camagueey/camagueey-3202/"
+          },
+          "Guantánamo": {
+            "url": "https://en.climate-data.org/north-america/cuba/guantanamo/guantanamo-3205/"
+          },
+          "El Moncada": {
+            "url": "https://en.climate-data.org/north-america/cuba/pinar-del-rio/el-moncada-502964/"
+          },
+          "Valle de Ancón": {
+            "url": "https://en.climate-data.org/north-america/cuba/pinar-del-rio/valle-de-ancon-789408/"
+          },
+          "Viñales": {
+            "url": "https://en.climate-data.org/north-america/cuba/pinar-del-rio/vinales-45778/"
+          },
+          "Santiago de las Vegas": {
+            "url": "https://en.climate-data.org/north-america/cuba/havana/santiago-de-las-vegas-4645/"
+          },
+          "Topes de Collantes": {
+            "url": "https://en.climate-data.org/north-america/cuba/sancti-spiritus/topes-de-collantes-53975/"
+          },
+          "Baracoa": {
+            "url": "https://en.climate-data.org/north-america/cuba/guantanamo/baracoa-26612/"
+          },
+          "Las Terrazas": {
+            "url": "https://en.climate-data.org/north-america/cuba/artemisa/las-terrazas-506058/"
+          },
+          "Moa": {
+            "url": "https://en.climate-data.org/north-america/cuba/holguin/moa-45462/"
+          },
+          "Bahía Honda": {
+            "url": "https://en.climate-data.org/north-america/cuba/artemisa/bahia-honda-766351/"
+          },
+          "Palenque": {
+            "url": "https://en.climate-data.org/north-america/cuba/guantanamo/palenque-1031779/"
+          },
+          "La Gran Piedra": {
+            "url": "https://en.climate-data.org/north-america/cuba/santiago-de-cuba/la-gran-piedra-410731/"
+          }
+        }
+      }
+    }
+  },
+  "South America": {
+    "url": "https://en.climate-data.org/continent/south-america/",
+    "countries": {
+      "Argentina": {
+        "url": "https://en.climate-data.org/south-america/argentina-11/",
+        "cities": {
+          "Buenos Aires": {
+            "url": "https://en.climate-data.org/south-america/argentina/autonomous-city-of-buenos-aires/buenos-aires-1207/"
+          },
+          "Córdoba": {
+            "url": "https://en.climate-data.org/south-america/argentina/cordoba/cordoba-878817/"
+          },
+          "Rosario": {
+            "url": "https://en.climate-data.org/south-america/argentina/santa-fe/rosario-1908/"
+          },
+          "San Miguel de Tucumán": {
+            "url": "https://en.climate-data.org/south-america/argentina/tucuman/san-miguel-de-tucuman-1915/"
+          },
+          "Santa Fe": {
+            "url": "https://en.climate-data.org/south-america/argentina/santa-fe/santa-fe-1918/"
+          },
+          "San Juan": {
+            "url": "https://en.climate-data.org/south-america/argentina/san-juan/san-juan-1913/"
+          },
+          "Neuquén": {
+            "url": "https://en.climate-data.org/south-america/argentina/neuquen/neuquen-1895/"
+          },
+          "Mendoza": {
+            "url": "https://en.climate-data.org/south-america/argentina/mendoza/mendoza-1893/"
+          },
+          "General Roca": {
+            "url": "https://en.climate-data.org/south-america/argentina/rio-negro/general-roca-1945/"
+          },
+          "Cipolletti": {
+            "url": "https://en.climate-data.org/south-america/argentina/rio-negro/cipolletti-1934/"
+          },
+          "San Luis": {
+            "url": "https://en.climate-data.org/south-america/argentina/san-luis/san-luis-764065/"
+          },
+          "Río Gallegos": {
+            "url": "https://en.climate-data.org/south-america/argentina/santa-cruz/rio-gallegos-1906/"
+          },
+          "Villa Cura Brochero": {
+            "url": "https://en.climate-data.org/south-america/argentina/cordoba/villa-cura-brochero-145037/"
+          },
+          "Coronel Moldes": {
+            "url": "https://en.climate-data.org/south-america/argentina/salta/coronel-moldes-145610/"
+          },
+          "San Lorenzo": {
+            "url": "https://en.climate-data.org/south-america/argentina/cordoba/san-lorenzo-144747/"
+          },
+          "Santiago del Estero": {
+            "url": "https://en.climate-data.org/south-america/argentina/santiago-del-estero/santiago-del-estero-1920/"
+          },
+          "Joaquín V. González": {
+            "url": "https://en.climate-data.org/south-america/argentina/salta/joaquin-v-gonzalez-145974/"
+          },
+          "San Fernando del Valle de Catamarca": {
+            "url": "https://en.climate-data.org/south-america/argentina/catamarca/san-fernando-del-valle-de-catamarca-1912/"
+          },
+          "Rosario de la Frontera": {
+            "url": "https://en.climate-data.org/south-america/argentina/salta/rosario-de-la-frontera-19713/"
+          },
+          "Chamical": {
+            "url": "https://en.climate-data.org/south-america/argentina/la-rioja/chamical-19842/"
+          },
+          "Necochea": {
+            "url": "https://en.climate-data.org/south-america/argentina/buenos-aires/necochea-19672/"
+          },
+          "Mar de Ajó": {
+            "url": "https://en.climate-data.org/south-america/argentina/buenos-aires/mar-de-ajo-19659/"
+          },
+          "Capilla del Monte": {
+            "url": "https://en.climate-data.org/south-america/argentina/cordoba/capilla-del-monte-19829/"
+          },
+          "La Cumbre": {
+            "url": "https://en.climate-data.org/south-america/argentina/cordoba/la-cumbre-146041/"
+          },
+          "La Cumbrecita": {
+            "url": "https://en.climate-data.org/south-america/argentina/cordoba/la-cumbrecita-287985/"
+          },
+          "Tartagal": {
+            "url": "https://en.climate-data.org/south-america/argentina/salta/tartagal-144927/"
+          },
+          "Ledesma": {
+            "url": "https://en.climate-data.org/south-america/argentina/jujuy/ledesma-879049/"
+          },
+          "Nueva Esperanza": {
+            "url": "https://en.climate-data.org/south-america/argentina/santiago-del-estero/nueva-esperanza-144380/"
+          },
+          "Uchuyoc": {
+            "url": "https://en.climate-data.org/south-america/argentina/salta/uchuyoc-672752/"
+          },
+          "Puente de Plata": {
+            "url": "https://en.climate-data.org/south-america/argentina/salta/puente-de-plata-878866/"
+          },
+          "San Martín de los Andes": {
+            "url": "https://en.climate-data.org/south-america/argentina/neuquen/san-martin-de-los-andes-19734/"
+          },
+          "Los Antiguos": {
+            "url": "https://en.climate-data.org/south-america/argentina/santa-cruz/los-antiguos-144185/"
+          },
+          "Esquel": {
+            "url": "https://en.climate-data.org/south-america/argentina/chubut/esquel-23408/"
+          },
+          "La Bolsa": {
+            "url": "https://en.climate-data.org/south-america/argentina/chubut/la-bolsa-770871/"
+          },
+          "El Hoyo": {
+            "url": "https://en.climate-data.org/south-america/argentina/chubut/el-hoyo-145913/"
+          },
+          "La Rioja": {
+            "url": "https://en.climate-data.org/south-america/argentina/la-rioja/la-rioja-1948/"
+          },
+          "Patquía": {
+            "url": "https://en.climate-data.org/south-america/argentina/la-rioja/patquia-718998/"
+          },
+          "Malligasta": {
+            "url": "https://en.climate-data.org/south-america/argentina/la-rioja/malligasta-19655/"
+          },
+          "San Miguel": {
+            "url": "https://en.climate-data.org/south-america/argentina/la-rioja/san-miguel-1036364/"
+          },
+          "Anguinán": {
+            "url": "https://en.climate-data.org/south-america/argentina/la-rioja/anguinan-19805/"
+          }
+        }
+      },
+      "Bolivia": {
+        "url": "https://en.climate-data.org/south-america/bolivia-113/",
+        "cities": {
+          "Cochabamba": {
+            "url": "https://en.climate-data.org/south-america/bolivia/cochabamba/cochabamba-3851/"
+          },
+          "Oruro": {
+            "url": "https://en.climate-data.org/south-america/bolivia/oruro/oruro-3928/"
+          },
+          "Tarija": {
+            "url": "https://en.climate-data.org/south-america/bolivia/tarija/tarija-3926/"
+          },
+          "Potosí": {
+            "url": "https://en.climate-data.org/south-america/bolivia/potosi/potosi-3453/"
+          },
+          "Tiquipaya": {
+            "url": "https://en.climate-data.org/south-america/bolivia/cochabamba/tiquipaya-988425/"
+          },
+          "San José de Chiquitos": {
+            "url": "https://en.climate-data.org/south-america/bolivia/santa-cruz/san-jose-de-chiquitos-51275/"
+          },
+          "Satélite Norte": {
+            "url": "https://en.climate-data.org/south-america/bolivia/santa-cruz/satelite-norte-879268/"
+          },
+          "Pacallo": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/pacallo-772039/"
+          },
+          "Montero": {
+            "url": "https://en.climate-data.org/south-america/bolivia/santa-cruz/montero-4443/"
+          },
+          "Riberalta": {
+            "url": "https://en.climate-data.org/south-america/bolivia/beni/riberalta-37553/"
+          },
+          "Santa Cruz de la Sierra": {
+            "url": "https://en.climate-data.org/south-america/bolivia/santa-cruz/santa-cruz-de-la-sierra-4439/"
+          },
+          "Trinidad": {
+            "url": "https://en.climate-data.org/south-america/bolivia/beni/trinidad-4444/"
+          },
+          "San Borja": {
+            "url": "https://en.climate-data.org/south-america/bolivia/beni/san-borja-42334/"
+          },
+          "San Ignacio de Moxos": {
+            "url": "https://en.climate-data.org/south-america/bolivia/beni/san-ignacio-de-moxos-42335/"
+          },
+          "Reyes": {
+            "url": "https://en.climate-data.org/south-america/bolivia/beni/reyes-51287/"
+          },
+          "Uyuni": {
+            "url": "https://en.climate-data.org/south-america/bolivia/potosi/uyuni-51284/"
+          },
+          "Colchani": {
+            "url": "https://en.climate-data.org/south-america/bolivia/potosi/colchani-277025/"
+          },
+          "Santa Bárbara": {
+            "url": "https://en.climate-data.org/south-america/bolivia/potosi/santa-barbara-481173/"
+          },
+          "Tatasi": {
+            "url": "https://en.climate-data.org/south-america/bolivia/potosi/tatasi-717743/"
+          },
+          "Salinas de Garcí Mendoza": {
+            "url": "https://en.climate-data.org/south-america/bolivia/oruro/salinas-de-garci-mendoza-717523/"
+          },
+          "La Paz": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/la-paz-764108/"
+          },
+          "Copacabana": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/copacabana-51304/"
+          },
+          "Mallasa": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/mallasa-417841/"
+          },
+          "Pampahasi": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/pampahasi-719427/"
+          },
+          "San Pedro de Tiquina": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/san-pedro-de-tiquina-765040/"
+          },
+          "Sucre": {
+            "url": "https://en.climate-data.org/south-america/bolivia/chuquisaca/sucre-3849/"
+          },
+          "Totora": {
+            "url": "https://en.climate-data.org/south-america/bolivia/cochabamba/totora-51314/"
+          },
+          "Colcha": {
+            "url": "https://en.climate-data.org/south-america/bolivia/cochabamba/colcha-998734/"
+          },
+          "Ovejeria": {
+            "url": "https://en.climate-data.org/south-america/bolivia/cochabamba/ovejeria-988384/"
+          },
+          "Arque": {
+            "url": "https://en.climate-data.org/south-america/bolivia/cochabamba/arque-58801/"
+          },
+          "El Alto": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/el-alto-4879/"
+          },
+          "Achacachi": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/achacachi-51289/"
+          },
+          "Hilo Hilo": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/hilo-hilo-1017809/"
+          },
+          "Puyo Puyo": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/puyo-puyo-1017808/"
+          },
+          "Agua Blanca": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/agua-blanca-1017811/"
+          },
+          "Rurrenabaque": {
+            "url": "https://en.climate-data.org/south-america/bolivia/beni/rurrenabaque-37552/"
+          },
+          "Villa Tunari": {
+            "url": "https://en.climate-data.org/south-america/bolivia/cochabamba/villa-tunari-481118/"
+          },
+          "Ivirgarzama": {
+            "url": "https://en.climate-data.org/south-america/bolivia/cochabamba/ivirgarzama-46540/"
+          },
+          "Shinahota": {
+            "url": "https://en.climate-data.org/south-america/bolivia/cochabamba/shinahota-51299/"
+          },
+          "Ixiamas": {
+            "url": "https://en.climate-data.org/south-america/bolivia/la-paz/ixiamas-52730/"
+          }
+        }
+      },
+      "Brazil": {
+        "url": "https://en.climate-data.org/south-america/brazil-114/",
+        "cities": {
+          "Brasília": {
+            "url": "https://en.climate-data.org/south-america/brazil/federal-district/brasilia-852/"
+          },
+          "Fortaleza": {
+            "url": "https://en.climate-data.org/south-america/brazil/ceara/fortaleza-2031/"
+          },
+          "Goiânia": {
+            "url": "https://en.climate-data.org/south-america/brazil/goias/goiania-2191/"
+          },
+          "São Luís": {
+            "url": "https://en.climate-data.org/south-america/brazil/maranhao/sao-luis-1671/"
+          },
+          "São Gonçalo": {
+            "url": "https://en.climate-data.org/south-america/brazil/rio-de-janeiro/sao-goncalo-1765/"
+          },
+          "Belo Horizonte": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/belo-horizonte-2889/"
+          },
+          "Porto Alegre": {
+            "url": "https://en.climate-data.org/south-america/brazil/rio-grande-do-sul/porto-alegre-3845/"
+          },
+          "Campinas": {
+            "url": "https://en.climate-data.org/south-america/brazil/sao-paulo/campinas-745/"
+          },
+          "São José dos Campos": {
+            "url": "https://en.climate-data.org/south-america/brazil/sao-paulo/sao-jose-dos-campos-6151/"
+          },
+          "Contagem": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/contagem-2877/"
+          },
+          "São Paulo": {
+            "url": "https://en.climate-data.org/south-america/brazil/sao-paulo/sao-paulo-655/"
+          },
+          "Curitiba": {
+            "url": "https://en.climate-data.org/south-america/brazil/parana/curitiba-2010/"
+          },
+          "Guarulhos": {
+            "url": "https://en.climate-data.org/south-america/brazil/sao-paulo/guarulhos-764109/"
+          },
+          "São Bernardo do Campo": {
+            "url": "https://en.climate-data.org/south-america/brazil/sao-paulo/sao-bernardo-do-campo-9602/"
+          },
+          "Santo André": {
+            "url": "https://en.climate-data.org/south-america/brazil/sao-paulo/santo-andre-5118/"
+          },
+          "Caruaru": {
+            "url": "https://en.climate-data.org/south-america/brazil/pernambuco/caruaru-34674/"
+          },
+          "Petrolina": {
+            "url": "https://en.climate-data.org/south-america/brazil/pernambuco/petrolina-31938/"
+          },
+          "Juazeiro": {
+            "url": "https://en.climate-data.org/south-america/brazil/bahia/juazeiro-31939/"
+          },
+          "Paulo Afonso": {
+            "url": "https://en.climate-data.org/south-america/brazil/bahia/paulo-afonso-880326/"
+          },
+          "Santa Cruz do Capibaribe": {
+            "url": "https://en.climate-data.org/south-america/brazil/pernambuco/santa-cruz-do-capibaribe-42604/"
+          },
+          "Rio de Janeiro": {
+            "url": "https://en.climate-data.org/south-america/brazil/rio-de-janeiro/rio-de-janeiro-853/"
+          },
+          "Manaus": {
+            "url": "https://en.climate-data.org/south-america/brazil/amazonas/manaus-1882/"
+          },
+          "Recife": {
+            "url": "https://en.climate-data.org/south-america/brazil/pernambuco/recife-5069/"
+          },
+          "Maceió": {
+            "url": "https://en.climate-data.org/south-america/brazil/alagoas/maceio-2193/"
+          },
+          "João Pessoa": {
+            "url": "https://en.climate-data.org/south-america/brazil/paraiba/joao-pessoa-4983/"
+          },
+          "Salvador": {
+            "url": "https://en.climate-data.org/south-america/brazil/bahia/salvador-854/"
+          },
+          "Belém": {
+            "url": "https://en.climate-data.org/south-america/brazil/para/belem-4299/"
+          },
+          "Ananindeua": {
+            "url": "https://en.climate-data.org/south-america/brazil/para/ananindeua-4515/"
+          },
+          "Santos": {
+            "url": "https://en.climate-data.org/south-america/brazil/sao-paulo/santos-757/"
+          },
+          "São Vicente": {
+            "url": "https://en.climate-data.org/south-america/brazil/sao-paulo/sao-vicente-764110/"
+          },
+          "Conceição do Mato Dentro": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/conceicao-do-mato-dentro-176005/"
+          },
+          "Bambuí": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/bambui-24989/"
+          },
+          "Serro": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/serro-24974/"
+          },
+          "Sabinópolis": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/sabinopolis-176127/"
+          },
+          "Gouveia": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/gouveia-176260/"
+          },
+          "Diamantina": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/diamantina-25028/"
+          },
+          "Lapinha da Serra": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/lapinha-da-serra-880150/"
+          },
+          "Datas": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/datas-175985/"
+          },
+          "Guinda": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/guinda-315708/"
+          },
+          "Sopa": {
+            "url": "https://en.climate-data.org/south-america/brazil/minas-gerais/sopa-315703/"
+          }
+        }
+      },
+      "Chile": {
+        "url": "https://en.climate-data.org/south-america/chile-75/",
+        "cities": {
+          "Santiago": {
+            "url": "https://en.climate-data.org/south-america/chile/region-metropolitana-de-santiago/santiago-938/"
+          },
+          "Los Ángeles": {
+            "url": "https://en.climate-data.org/south-america/chile/viii-region-del-biobio/los-angeles-2048/"
+          },
+          "Lota": {
+            "url": "https://en.climate-data.org/south-america/chile/viii-region-del-biobio/lota-2043/"
+          },
+          "Santa Cruz": {
+            "url": "https://en.climate-data.org/south-america/chile/vi-region-del-libertador-bernardo-o-higgins/santa-cruz-21753/"
+          },
+          "Concepción": {
+            "url": "https://en.climate-data.org/south-america/chile/viii-region-del-biobio/concepcion-3984/"
+          },
+          "Putre": {
+            "url": "https://en.climate-data.org/south-america/chile/xv-region-de-arica-y-parinacota/putre-37486/"
+          },
+          "Herradura Oriente": {
+            "url": "https://en.climate-data.org/south-america/chile/iv-region-de-coquimbo/herradura-oriente-149982/"
+          },
+          "Pisco Elqui": {
+            "url": "https://en.climate-data.org/south-america/chile/iv-region-de-coquimbo/pisco-elqui-21736/"
+          },
+          "Vicuña": {
+            "url": "https://en.climate-data.org/south-america/chile/iv-region-de-coquimbo/vicuna-21763/"
+          },
+          "La Higuera": {
+            "url": "https://en.climate-data.org/south-america/chile/iv-region-de-coquimbo/la-higuera-876909/"
+          },
+          "Castro": {
+            "url": "https://en.climate-data.org/south-america/chile/x-region-de-los-lagos/castro-876100/"
+          },
+          "Molco": {
+            "url": "https://en.climate-data.org/south-america/chile/ix-region-de-la-araucania/molco-148578/"
+          },
+          "Villarrica": {
+            "url": "https://en.climate-data.org/south-america/chile/ix-region-de-la-araucania/villarrica-149144/"
+          },
+          "Panguipulli": {
+            "url": "https://en.climate-data.org/south-america/chile/xiv-region-de-los-rios/panguipulli-147812/"
+          },
+          "Puerto Calafquén": {
+            "url": "https://en.climate-data.org/south-america/chile/xiv-region-de-los-rios/puerto-calafquen-689613/"
+          },
+          "San Felipe": {
+            "url": "https://en.climate-data.org/south-america/chile/v-region-de-valparaiso/san-felipe-2041/"
+          },
+          "Los Andes": {
+            "url": "https://en.climate-data.org/south-america/chile/v-region-de-valparaiso/los-andes-2045/"
+          },
+          "Canela Alta": {
+            "url": "https://en.climate-data.org/south-america/chile/iv-region-de-coquimbo/canela-alta-147608/"
+          },
+          "Las Trancas": {
+            "url": "https://en.climate-data.org/south-america/chile/iv-region-de-coquimbo/las-trancas-148985/"
+          },
+          "Visviri": {
+            "url": "https://en.climate-data.org/south-america/chile/xv-region-de-arica-y-parinacota/visviri-150085/"
+          },
+          "Palmilla Abajo": {
+            "url": "https://en.climate-data.org/south-america/chile/vi-region-del-libertador-bernardo-o-higgins/palmilla-abajo-148380/"
+          },
+          "El Estero": {
+            "url": "https://en.climate-data.org/south-america/chile/vi-region-del-libertador-bernardo-o-higgins/el-estero-150180/"
+          },
+          "Talagante": {
+            "url": "https://en.climate-data.org/south-america/chile/region-metropolitana-de-santiago/talagante-2039/"
+          },
+          "San Antonio": {
+            "url": "https://en.climate-data.org/south-america/chile/v-region-de-valparaiso/san-antonio-876779/"
+          },
+          "Rocas de Santo Domingo": {
+            "url": "https://en.climate-data.org/south-america/chile/v-region-de-valparaiso/rocas-de-santo-domingo-148089/"
+          },
+          "Huasco": {
+            "url": "https://en.climate-data.org/south-america/chile/iii-region-de-atacama/huasco-55902/"
+          },
+          "Arica": {
+            "url": "https://en.climate-data.org/south-america/chile/xv-region-de-arica-y-parinacota/arica-2066/"
+          },
+          "Tocopilla": {
+            "url": "https://en.climate-data.org/south-america/chile/ii-region-de-antofagasta/tocopilla-21724/"
+          },
+          "Iquique": {
+            "url": "https://en.climate-data.org/south-america/chile/i-region-de-tarapaca/iquique-2051/"
+          },
+          "Mejillones": {
+            "url": "https://en.climate-data.org/south-america/chile/ii-region-de-antofagasta/mejillones-148023/"
+          },
+          "Punta Arenas": {
+            "url": "https://en.climate-data.org/south-america/chile/xii-region-of-magallanes-and-chilean-antarctica/punta-arenas-1787/"
+          },
+          "Antillanca": {
+            "url": "https://en.climate-data.org/south-america/chile/x-region-de-los-lagos/antillanca-149411/"
+          },
+          "Puerto Bories": {
+            "url": "https://en.climate-data.org/south-america/chile/xii-region-of-magallanes-and-chilean-antarctica/puerto-bories-688276/"
+          },
+          "Puerto Natales": {
+            "url": "https://en.climate-data.org/south-america/chile/xii-region-of-magallanes-and-chilean-antarctica/puerto-natales-55869/"
+          },
+          "Cerro Castillo": {
+            "url": "https://en.climate-data.org/south-america/chile/xii-region-of-magallanes-and-chilean-antarctica/cerro-castillo-564326/"
+          },
+          "Puerto Williams": {
+            "url": "https://en.climate-data.org/south-america/chile/xii-region-of-magallanes-and-chilean-antarctica/puerto-williams-21750/"
+          },
+          "Paso Mallo": {
+            "url": "https://en.climate-data.org/south-america/chile/iii-region-de-atacama/paso-mallo-149383/"
+          },
+          "El Ternerito": {
+            "url": "https://en.climate-data.org/south-america/chile/iii-region-de-atacama/el-ternerito-148827/"
+          },
+          "Puerto Toro": {
+            "url": "https://en.climate-data.org/south-america/chile/xii-region-of-magallanes-and-chilean-antarctica/puerto-toro-719238/"
+          },
+          "Las Maravillas": {
+            "url": "https://en.climate-data.org/south-america/chile/x-region-de-los-lagos/las-maravillas-147393/"
+          }
+        }
+      },
+      "Colombia": {
+        "url": "https://en.climate-data.org/south-america/colombia-133/",
+        "cities": {
+          "Buenaventura": {
+            "url": "https://en.climate-data.org/south-america/colombia/buenaventura/buenaventura-49743/"
+          },
+          "Barrancabermeja": {
+            "url": "https://en.climate-data.org/south-america/colombia/santander/barrancabermeja-30856/"
+          },
+          "Dosquebradas": {
+            "url": "https://en.climate-data.org/south-america/colombia/risaralda/dosquebradas-49810/"
+          },
+          "Girón": {
+            "url": "https://en.climate-data.org/south-america/colombia/santander/giron-29211/"
+          },
+          "Apartadó": {
+            "url": "https://en.climate-data.org/south-america/colombia/antioquia/apartado-50269/"
+          },
+          "Cali": {
+            "url": "https://en.climate-data.org/south-america/colombia/valle-del-cauca/cali-3426/"
+          },
+          "Barranquilla": {
+            "url": "https://en.climate-data.org/south-america/colombia/atlantico/barranquilla-3539/"
+          },
+          "Cartagena": {
+            "url": "https://en.climate-data.org/south-america/colombia/bolivar/cartagena-3312/"
+          },
+          "Floridablanca": {
+            "url": "https://en.climate-data.org/south-america/colombia/santander/floridablanca-31234/"
+          },
+          "Palmira": {
+            "url": "https://en.climate-data.org/south-america/colombia/valle-del-cauca/palmira-53578/"
+          },
+          "Medellín": {
+            "url": "https://en.climate-data.org/south-america/colombia/antioquia/medellin-4088/"
+          },
+          "Bello": {
+            "url": "https://en.climate-data.org/south-america/colombia/antioquia/bello-1007406/"
+          },
+          "Envigado": {
+            "url": "https://en.climate-data.org/south-america/colombia/antioquia/envigado-50294/"
+          },
+          "Tuluá": {
+            "url": "https://en.climate-data.org/south-america/colombia/valle-del-cauca/tulua-49752/"
+          },
+          "Yopal": {
+            "url": "https://en.climate-data.org/south-america/colombia/casanare/yopal-3817/"
+          },
+          "Bogota": {
+            "url": "https://en.climate-data.org/south-america/colombia/bogota/bogota-5115/"
+          },
+          "Soacha": {
+            "url": "https://en.climate-data.org/south-america/colombia/cundinamarca/soacha-31233/"
+          },
+          "Manizales": {
+            "url": "https://en.climate-data.org/south-america/colombia/caldas/manizales-3538/"
+          },
+          "Popayán": {
+            "url": "https://en.climate-data.org/south-america/colombia/cauca/popayan-3703/"
+          },
+          "Sogamoso": {
+            "url": "https://en.climate-data.org/south-america/colombia/sogamoso/sogamoso-1034032/"
+          },
+          "RAQUIRA": {
+            "url": "https://en.climate-data.org/south-america/colombia/boyaca/raquira-49941/"
+          },
+          "Tinjacá": {
+            "url": "https://en.climate-data.org/south-america/colombia/boyaca/tinjaca-44433/"
+          },
+          "Sáchica": {
+            "url": "https://en.climate-data.org/south-america/colombia/boyaca/sachica-49938/"
+          },
+          "Villa de Leyva": {
+            "url": "https://en.climate-data.org/south-america/colombia/boyaca/villa-de-leyva-50004/"
+          },
+          "Pasto": {
+            "url": "https://en.climate-data.org/south-america/colombia/narino/pasto-3811/"
+          },
+          "Cúcuta": {
+            "url": "https://en.climate-data.org/south-america/colombia/norte-de-santander/cucuta-5330/"
+          },
+          "Riohacha": {
+            "url": "https://en.climate-data.org/south-america/colombia/la-guajira/riohacha-714990/"
+          },
+          "Maicao": {
+            "url": "https://en.climate-data.org/south-america/colombia/la-guajira/maicao-50243/"
+          },
+          "Taganga": {
+            "url": "https://en.climate-data.org/south-america/colombia/magdalena/taganga-32570/"
+          },
+          "Santa Marta": {
+            "url": "https://en.climate-data.org/south-america/colombia/magdalena/santa-marta-3650/"
+          },
+          "Maruamaque (San Jose)": {
+            "url": "https://en.climate-data.org/south-america/colombia/cesar/maruamaque-san-jose-719143/"
+          },
+          "Nabusimake (San Sebastian de Rábago)": {
+            "url": "https://en.climate-data.org/south-america/colombia/cesar/nabusimake-san-sebastian-de-rabago-463537/"
+          },
+          "Donachui": {
+            "url": "https://en.climate-data.org/south-america/colombia/cesar/donachui-719140/"
+          },
+          "Chiscas": {
+            "url": "https://en.climate-data.org/south-america/colombia/boyaca/chiscas-50207/"
+          },
+          "San Miguel": {
+            "url": "https://en.climate-data.org/south-america/colombia/la-guajira/san-miguel-475026/"
+          },
+          "Resguardo Indigena Aponte": {
+            "url": "https://en.climate-data.org/south-america/colombia/narino/resguardo-indigena-aponte-465535/"
+          },
+          "Resguardo Indigena Rio Blanc": {
+            "url": "https://en.climate-data.org/south-america/colombia/cauca/resguardo-indigena-rio-blanc-462959/"
+          },
+          "San Juan de Sumapaz": {
+            "url": "https://en.climate-data.org/south-america/colombia/bogota/san-juan-de-sumapaz-463742/"
+          },
+          "El Reposo": {
+            "url": "https://en.climate-data.org/south-america/colombia/tolima/el-reposo-225470/"
+          },
+          "Resguardo": {
+            "url": "https://en.climate-data.org/south-america/colombia/boyaca/resguardo-462608/"
+          }
+        }
+      },
+      "Ecuador": {
+        "url": "https://en.climate-data.org/south-america/ecuador-63/",
+        "cities": {
+          "Quevedo": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-los-rios/quevedo-2972/"
+          },
+          "Durán": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-del-guayas/duran-2960/"
+          },
+          "Milagro": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-del-guayas/milagro-2969/"
+          },
+          "Esmeraldas": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-esmeraldas/esmeraldas-2961/"
+          },
+          "Vilcabamba": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-loja/vilcabamba-693795/"
+          },
+          "Quito": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pichincha/quito-1012/"
+          },
+          "Cuenca": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-del-azuay/cuenca-875185/"
+          },
+          "Riobamba": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-del-chimborazo/riobamba-2973/"
+          },
+          "Ambato": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-tungurahua/ambato-2957/"
+          },
+          "Baños": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-tungurahua/banos-12719/"
+          },
+          "Puyo": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pastaza/puyo-2971/"
+          },
+          "Tena": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-napo/tena-2977/"
+          },
+          "Sindy": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-napo/sindy-875618/"
+          },
+          "Mindo": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pichincha/mindo-180059/"
+          },
+          "Puerto Misahuallí": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-napo/puerto-misahualli-180560/"
+          },
+          "Guayaquil": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-del-guayas/guayaquil-2962/"
+          },
+          "Bahía de Caráquez": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-manabi/bahia-de-caraquez-25376/"
+          },
+          "Puerto Baquerizo Moreno": {
+            "url": "https://en.climate-data.org/south-america/ecuador/galapagos-islands/puerto-baquerizo-moreno-25463/"
+          },
+          "Canoa": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-manabi/canoa-177999/"
+          },
+          "Puerto Ayora": {
+            "url": "https://en.climate-data.org/south-america/ecuador/galapagos-islands/puerto-ayora-25464/"
+          },
+          "Pacto": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pichincha/pacto-179790/"
+          },
+          "Mompiche": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-esmeraldas/mompiche-180042/"
+          },
+          "Puerto Quito": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pichincha/puerto-quito-25466/"
+          },
+          "San Jacinto de Buena Fé": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-los-rios/san-jacinto-de-buena-fe-25379/"
+          },
+          "Recinto Buenos Aires": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-del-chimborazo/recinto-buenos-aires-177902/"
+          },
+          "La Libertad": {
+            "url": "https://en.climate-data.org/south-america/ecuador/santa-elena-province/la-libertad-25416/"
+          },
+          "Salinas": {
+            "url": "https://en.climate-data.org/south-america/ecuador/santa-elena-province/salinas-25474/"
+          },
+          "Puerto Villamil": {
+            "url": "https://en.climate-data.org/south-america/ecuador/galapagos-islands/puerto-villamil-180200/"
+          },
+          "Data de Posorja": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-del-guayas/data-de-posorja-178371/"
+          },
+          "Playas": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-del-guayas/playas-25459/"
+          },
+          "Ibarra": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-imbabura/ibarra-2964/"
+          },
+          "Guaranda": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-bolivar/guaranda-2963/"
+          },
+          "Otavalo": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-imbabura/otavalo-25437/"
+          },
+          "Quiroga": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-imbabura/quiroga-180228/"
+          },
+          "San Pablo del Lago": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-imbabura/san-pablo-del-lago-180597/"
+          },
+          "Tababela": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pichincha/tababela-181352/"
+          },
+          "Nayón": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pichincha/nayon-180167/"
+          },
+          "Tumbaco": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pichincha/tumbaco-34393/"
+          },
+          "Pifo": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pichincha/pifo-179930/"
+          },
+          "Puembo": {
+            "url": "https://en.climate-data.org/south-america/ecuador/provincia-de-pichincha/puembo-180518/"
+          }
+        }
+      },
+      "Falkland Islands": {
+        "url": "https://en.climate-data.org/south-america/falkland-islands-78/",
+        "cities": {
+          "Stanley, Falkland Islands": {
+            "url": "https://en.climate-data.org/south-america/falkland-islands/stanley-falkland-islands/stanley-falkland-islands-714892/"
+          },
+          "Port Stephens": {
+            "url": "https://en.climate-data.org/south-america/falkland-islands/port-stephens/port-stephens-123554/"
+          },
+          "South Harbour": {
+            "url": "https://en.climate-data.org/south-america/falkland-islands/south-harbour/south-harbour-123572/"
+          },
+          "Albemarle": {
+            "url": "https://en.climate-data.org/south-america/falkland-islands/albemarle/albemarle-123566/"
+          },
+          "Stoney Ridge": {
+            "url": "https://en.climate-data.org/south-america/falkland-islands/stoney-ridge/stoney-ridge-123587/"
+          },
+          "Port Patterson": {
+            "url": "https://en.climate-data.org/south-america/falkland-islands/port-patterson/port-patterson-416424/"
+          },
+          "Saunders Island Settlement": {
+            "url": "https://en.climate-data.org/south-america/falkland-islands/saunders-island-settlement/saunders-island-settlement-416425/"
+          },
+          "Shallow Bay": {
+            "url": "https://en.climate-data.org/south-america/falkland-islands/shallow-bay/shallow-bay-123575/"
+          },
+          "Pebble Island Settlement": {
+            "url": "https://en.climate-data.org/south-america/falkland-islands/pebble-island-settlement/pebble-island-settlement-121376/"
+          }
+        }
+      },
+      "Guyana": {
+        "url": "https://en.climate-data.org/south-america/guyana-81/",
+        "cities": {
+          "Stabroek": {
+            "url": "https://en.climate-data.org/south-america/guyana/stabroek/stabroek-433137/"
+          },
+          "Queenstown": {
+            "url": "https://en.climate-data.org/south-america/guyana/queenstown/queenstown-442430/"
+          },
+          "Georgetown": {
+            "url": "https://en.climate-data.org/south-america/guyana/georgetown/georgetown-3617/"
+          },
+          "Linden": {
+            "url": "https://en.climate-data.org/south-america/guyana/linden/linden-879517/"
+          },
+          "Corriverton": {
+            "url": "https://en.climate-data.org/south-america/guyana/corriverton/corriverton-31508/"
+          },
+          "Aishalton": {
+            "url": "https://en.climate-data.org/south-america/guyana/aishalton/aishalton-1038712/"
+          },
+          "Maruranau": {
+            "url": "https://en.climate-data.org/south-america/guyana/maruranau/maruranau-1038714/"
+          },
+          "Achawib": {
+            "url": "https://en.climate-data.org/south-america/guyana/achawib/achawib-1038710/"
+          },
+          "Awarewaunau": {
+            "url": "https://en.climate-data.org/south-america/guyana/awarewaunau/awarewaunau-1038713/"
+          },
+          "Apoteri": {
+            "url": "https://en.climate-data.org/south-america/guyana/apoteri/apoteri-1038709/"
+          },
+          "Shea": {
+            "url": "https://en.climate-data.org/south-america/guyana/shea/shea-1038715/"
+          },
+          "No. 3": {
+            "url": "https://en.climate-data.org/south-america/guyana/no-3/no-3-438650/"
+          },
+          "No. 2": {
+            "url": "https://en.climate-data.org/south-america/guyana/no-2/no-2-438649/"
+          },
+          "Zee Zeight": {
+            "url": "https://en.climate-data.org/south-america/guyana/zee-zeight/zee-zeight-459400/"
+          },
+          "Cotton Tree": {
+            "url": "https://en.climate-data.org/south-america/guyana/cotton-tree/cotton-tree-438651/"
+          }
+        }
+      },
+      "Paraguay": {
+        "url": "https://en.climate-data.org/south-america/paraguay-230/",
+        "cities": {
+          "Asuncion": {
+            "url": "https://en.climate-data.org/south-america/paraguay/distrito-capital-de-paraguay/asuncion-2985/"
+          },
+          "San Lorenzo": {
+            "url": "https://en.climate-data.org/south-america/paraguay/central/san-lorenzo-56610/"
+          },
+          "Ciudad del Este": {
+            "url": "https://en.climate-data.org/south-america/paraguay/alto-parana/ciudad-del-este-3925/"
+          },
+          "Fernando de la Mora": {
+            "url": "https://en.climate-data.org/south-america/paraguay/central/fernando-de-la-mora-879565/"
+          },
+          "Lambaré": {
+            "url": "https://en.climate-data.org/south-america/paraguay/central/lambare-879564/"
+          },
+          "Filadelfia": {
+            "url": "https://en.climate-data.org/south-america/paraguay/boqueron/filadelfia-56215/"
+          },
+          "Loma Plata": {
+            "url": "https://en.climate-data.org/south-america/paraguay/boqueron/loma-plata-56216/"
+          },
+          "Mayor Pablo Lagerenza": {
+            "url": "https://en.climate-data.org/south-america/paraguay/alto-paraguay/mayor-pablo-lagerenza-715353/"
+          },
+          "Misión San Leonardo": {
+            "url": "https://en.climate-data.org/south-america/paraguay/boqueron/mision-san-leonardo-719582/"
+          },
+          "Altenau": {
+            "url": "https://en.climate-data.org/south-america/paraguay/boqueron/altenau-481741/"
+          },
+          "Concepción": {
+            "url": "https://en.climate-data.org/south-america/paraguay/concepcion/concepcion-3855/"
+          },
+          "Horqueta": {
+            "url": "https://en.climate-data.org/south-america/paraguay/concepcion/horqueta-32555/"
+          },
+          "Yby Yaú": {
+            "url": "https://en.climate-data.org/south-america/paraguay/concepcion/yby-yau-228141/"
+          },
+          "Puerto Pinasco": {
+            "url": "https://en.climate-data.org/south-america/paraguay/presidente-hayes/puerto-pinasco-670855/"
+          },
+          "Fuerte Olimpo": {
+            "url": "https://en.climate-data.org/south-america/paraguay/alto-paraguay/fuerte-olimpo-31527/"
+          },
+          "Luque": {
+            "url": "https://en.climate-data.org/south-america/paraguay/central/luque-6095/"
+          },
+          "Mariano Roque Alonso": {
+            "url": "https://en.climate-data.org/south-america/paraguay/central/mariano-roque-alonso-56810/"
+          },
+          "Villa Hayes": {
+            "url": "https://en.climate-data.org/south-america/paraguay/presidente-hayes/villa-hayes-3865/"
+          },
+          "Loreto": {
+            "url": "https://en.climate-data.org/south-america/paraguay/concepcion/loreto-716514/"
+          },
+          "Benjamín Aceval": {
+            "url": "https://en.climate-data.org/south-america/paraguay/presidente-hayes/benjamin-aceval-879577/"
+          }
+        }
+      },
+      "Peru": {
+        "url": "https://en.climate-data.org/south-america/peru-27/",
+        "cities": {
+          "Chachapoyas": {
+            "url": "https://en.climate-data.org/south-america/peru/amazonas/chachapoyas-4066/"
+          },
+          "Nuevo Tingo": {
+            "url": "https://en.climate-data.org/south-america/peru/amazonas/nuevo-tingo-438681/"
+          },
+          "Oxapampa": {
+            "url": "https://en.climate-data.org/south-america/peru/pasco/oxapampa-4353/"
+          },
+          "Mollepata": {
+            "url": "https://en.climate-data.org/south-america/peru/cusco/mollepata-361395/"
+          },
+          "Lima": {
+            "url": "https://en.climate-data.org/south-america/peru/lima/lima-1014/"
+          },
+          "Trujillo": {
+            "url": "https://en.climate-data.org/south-america/peru/la-libertad/trujillo-3401/"
+          },
+          "Chiclayo": {
+            "url": "https://en.climate-data.org/south-america/peru/lambayeque/chiclayo-3932/"
+          },
+          "Piura": {
+            "url": "https://en.climate-data.org/south-america/peru/piura/piura-3403/"
+          },
+          "Chimbote": {
+            "url": "https://en.climate-data.org/south-america/peru/ancash/chimbote-765429/"
+          },
+          "Puno": {
+            "url": "https://en.climate-data.org/south-america/peru/puno/puno-1013/"
+          },
+          "Capachica": {
+            "url": "https://en.climate-data.org/south-america/peru/puno/capachica-878199/"
+          },
+          "Soraypampa": {
+            "url": "https://en.climate-data.org/south-america/peru/cusco/soraypampa-361398/"
+          },
+          "Yauri": {
+            "url": "https://en.climate-data.org/south-america/peru/cusco/yauri-27694/"
+          },
+          "Chucuito": {
+            "url": "https://en.climate-data.org/south-america/peru/puno/chucuito-416647/"
+          },
+          "Arequipa": {
+            "url": "https://en.climate-data.org/south-america/peru/arequipa/arequipa-3078/"
+          },
+          "Bellavista": {
+            "url": "https://en.climate-data.org/south-america/peru/arequipa/bellavista-1034759/"
+          },
+          "Villa Hermosa": {
+            "url": "https://en.climate-data.org/south-america/peru/tacna/villa-hermosa-1034554/"
+          },
+          "Ciudad Satelite": {
+            "url": "https://en.climate-data.org/south-america/peru/arequipa/ciudad-satelite-1034761/"
+          },
+          "San Juan de Chucho": {
+            "url": "https://en.climate-data.org/south-america/peru/arequipa/san-juan-de-chucho-1034994/"
+          },
+          "Coporaque": {
+            "url": "https://en.climate-data.org/south-america/peru/arequipa/coporaque-187718/"
+          },
+          "San Andres": {
+            "url": "https://en.climate-data.org/south-america/peru/arequipa/san-andres-1035005/"
+          },
+          "Yanque": {
+            "url": "https://en.climate-data.org/south-america/peru/arequipa/yanque-25917/"
+          },
+          "Cabanaconde": {
+            "url": "https://en.climate-data.org/south-america/peru/arequipa/cabanaconde-25918/"
+          },
+          "Chivay": {
+            "url": "https://en.climate-data.org/south-america/peru/arequipa/chivay-25916/"
+          },
+          "Cusco": {
+            "url": "https://en.climate-data.org/south-america/peru/cusco/cusco-1016/"
+          },
+          "Huaraz": {
+            "url": "https://en.climate-data.org/south-america/peru/ancash/huaraz-28093/"
+          },
+          "Sicuani": {
+            "url": "https://en.climate-data.org/south-america/peru/cusco/sicuani-27445/"
+          },
+          "Los Baños del Inca": {
+            "url": "https://en.climate-data.org/south-america/peru/cajamarca/los-banos-del-inca-875101/"
+          },
+          "Chinchero": {
+            "url": "https://en.climate-data.org/south-america/peru/cusco/chinchero-45611/"
+          },
+          "Bagua Grande": {
+            "url": "https://en.climate-data.org/south-america/peru/amazonas/bagua-grande-33770/"
+          },
+          "Santa Teresa": {
+            "url": "https://en.climate-data.org/south-america/peru/cusco/santa-teresa-333408/"
+          },
+          "Quillabamba": {
+            "url": "https://en.climate-data.org/south-america/peru/cusco/quillabamba-45194/"
+          },
+          "Maranura": {
+            "url": "https://en.climate-data.org/south-america/peru/cusco/maranura-771909/"
+          },
+          "Puerto Esperanza": {
+            "url": "https://en.climate-data.org/south-america/peru/ucayali/puerto-esperanza-484023/"
+          },
+          "Tarapoto": {
+            "url": "https://en.climate-data.org/south-america/peru/san-martin/tarapoto-3404/"
+          },
+          "San Ramón": {
+            "url": "https://en.climate-data.org/south-america/peru/junin/san-ramon-28556/"
+          },
+          "La Merced": {
+            "url": "https://en.climate-data.org/south-america/peru/junin/la-merced-28557/"
+          },
+          "Nauta": {
+            "url": "https://en.climate-data.org/south-america/peru/loreto/nauta-200305/"
+          },
+          "Santo Domingo": {
+            "url": "https://en.climate-data.org/south-america/peru/madre-de-dios/santo-domingo-771934/"
+          }
+        }
+      }
+    }
+  },
+  "Africa": {
+    "url": "https://en.climate-data.org/continent/africa/",
+    "countries": {
+      "Algeria": {
+        "url": "https://en.climate-data.org/africa/algeria-164/",
+        "cities": {
+          "Oran": {
+            "url": "https://en.climate-data.org/africa/algeria/oran/oran-540/"
+          },
+          "Constantine": {
+            "url": "https://en.climate-data.org/africa/algeria/constantine/constantine-499/"
+          },
+          "Blida": {
+            "url": "https://en.climate-data.org/africa/algeria/blida/blida-3562/"
+          },
+          "Sétif": {
+            "url": "https://en.climate-data.org/africa/algeria/setif/setif-3595/"
+          },
+          "Annaba": {
+            "url": "https://en.climate-data.org/africa/algeria/annaba/annaba-3685/"
+          },
+          "Batna": {
+            "url": "https://en.climate-data.org/africa/algeria/batna/batna-3686/"
+          },
+          "M'Sila": {
+            "url": "https://en.climate-data.org/africa/algeria/m-sila/m-sila-3700/"
+          },
+          "Mostaganem": {
+            "url": "https://en.climate-data.org/africa/algeria/mostaganem/mostaganem-3699/"
+          },
+          "Djelfa": {
+            "url": "https://en.climate-data.org/africa/algeria/djelfa/djelfa-3689/"
+          },
+          "Tébessa": {
+            "url": "https://en.climate-data.org/africa/algeria/tebessa/tebessa-3692/"
+          },
+          "Biskra": {
+            "url": "https://en.climate-data.org/africa/algeria/biskra/biskra-3691/"
+          },
+          "El Oued": {
+            "url": "https://en.climate-data.org/africa/algeria/el-oued/el-oued-3233/"
+          },
+          "Adrar": {
+            "url": "https://en.climate-data.org/africa/algeria/adrar/adrar-44519/"
+          },
+          "Hassi Messaoud": {
+            "url": "https://en.climate-data.org/africa/algeria/ouargla/hassi-messaoud-46613/"
+          },
+          "Bechar": {
+            "url": "https://en.climate-data.org/africa/algeria/bechar/bechar-3697/"
+          },
+          "Bou Saâda": {
+            "url": "https://en.climate-data.org/africa/algeria/m-sila/bou-saada-3435/"
+          },
+          "Laghouat": {
+            "url": "https://en.climate-data.org/africa/algeria/laghouat/laghouat-3250/"
+          },
+          "Naâma": {
+            "url": "https://en.climate-data.org/africa/algeria/naama/naama-44417/"
+          },
+          "Djemorah": {
+            "url": "https://en.climate-data.org/africa/algeria/biskra/djemorah-339031/"
+          },
+          "El Kantara": {
+            "url": "https://en.climate-data.org/africa/algeria/biskra/el-kantara-321536/"
+          },
+          "Khenchela": {
+            "url": "https://en.climate-data.org/africa/algeria/khenchela/khenchela-3702/"
+          },
+          "Tizi N'Bechar": {
+            "url": "https://en.climate-data.org/africa/algeria/setif/tizi-n-bechar-325378/"
+          },
+          "AT Tiannanine": {
+            "url": "https://en.climate-data.org/africa/algeria/bejaia/at-tiannanine-888549/"
+          },
+          "Ain el Baïdha": {
+            "url": "https://en.climate-data.org/africa/algeria/setif/ain-el-baidha-1006707/"
+          },
+          "Mechtat Bourguezane": {
+            "url": "https://en.climate-data.org/africa/algeria/setif/mechtat-bourguezane-1006704/"
+          },
+          "Ain Turk": {
+            "url": "https://en.climate-data.org/africa/algeria/oran/ain-turk-32565/"
+          },
+          "Mohammadia": {
+            "url": "https://en.climate-data.org/africa/algeria/mascara/mohammadia-37342/"
+          },
+          "Relizane": {
+            "url": "https://en.climate-data.org/africa/algeria/relizane/relizane-3708/"
+          },
+          "Sidi M'Hamed Benaouda": {
+            "url": "https://en.climate-data.org/africa/algeria/relizane/sidi-m-hamed-benaouda-502096/"
+          },
+          "Marsa Ben M'Hidi": {
+            "url": "https://en.climate-data.org/africa/algeria/tlemcen/marsa-ben-m-hidi-360183/"
+          }
+        }
+      },
+      "Angola": {
+        "url": "https://en.climate-data.org/africa/angola-72/",
+        "cities": {
+          "Cacondá": {
+            "url": "https://en.climate-data.org/africa/angola/huambo/caconda-507011/"
+          },
+          "Ngundji": {
+            "url": "https://en.climate-data.org/africa/angola/huambo/ngundji-507018/"
+          },
+          "Catanda": {
+            "url": "https://en.climate-data.org/africa/angola/huambo/catanda-507616/"
+          },
+          "Calunda": {
+            "url": "https://en.climate-data.org/africa/angola/moxico/calunda-914577/"
+          },
+          "Cambambe": {
+            "url": "https://en.climate-data.org/africa/angola/cuanza-sul/cambambe-507971/"
+          },
+          "Béu": {
+            "url": "https://en.climate-data.org/africa/angola/uige/beu-716453/"
+          },
+          "Quiteca": {
+            "url": "https://en.climate-data.org/africa/angola/uige/quiteca-730895/"
+          },
+          "Quivelo": {
+            "url": "https://en.climate-data.org/africa/angola/uige/quivelo-730896/"
+          },
+          "Quissuca": {
+            "url": "https://en.climate-data.org/africa/angola/uige/quissuca-730894/"
+          },
+          "Menongue": {
+            "url": "https://en.climate-data.org/africa/angola/cuando-cubango/menongue-5107/"
+          },
+          "Cumbúndi Cungo": {
+            "url": "https://en.climate-data.org/africa/angola/cuanza-sul/cumbundi-cungo-772440/"
+          },
+          "Quissecula": {
+            "url": "https://en.climate-data.org/africa/angola/cuanza-sul/quissecula-772446/"
+          },
+          "Luassinga": {
+            "url": "https://en.climate-data.org/africa/angola/cuando-cubango/luassinga-772568/"
+          },
+          "Chilumbo": {
+            "url": "https://en.climate-data.org/africa/angola/moxico/chilumbo-772916/"
+          },
+          "Luanda": {
+            "url": "https://en.climate-data.org/africa/angola/luanda/luanda-498/"
+          },
+          "Viana": {
+            "url": "https://en.climate-data.org/africa/angola/luanda/viana-479168/"
+          },
+          "Sumbe": {
+            "url": "https://en.climate-data.org/africa/angola/cuanza-sul/sumbe-3991/"
+          },
+          "Catete": {
+            "url": "https://en.climate-data.org/africa/angola/bengo/catete-56302/"
+          },
+          "Humbe": {
+            "url": "https://en.climate-data.org/africa/angola/bengo/humbe-779481/"
+          },
+          "Lobito": {
+            "url": "https://en.climate-data.org/africa/angola/benguela/lobito-28768/"
+          },
+          "Namibe": {
+            "url": "https://en.climate-data.org/africa/angola/namibe/namibe-3993/"
+          },
+          "Benguela": {
+            "url": "https://en.climate-data.org/africa/angola/benguela/benguela-3992/"
+          },
+          "Tombua": {
+            "url": "https://en.climate-data.org/africa/angola/namibe/tombua-34115/"
+          },
+          "virei": {
+            "url": "https://en.climate-data.org/africa/angola/namibe/virei-896583/"
+          }
+        }
+      },
+      "Benin": {
+        "url": "https://en.climate-data.org/africa/benin-42/",
+        "cities": {
+          "Grand Popo": {
+            "url": "https://en.climate-data.org/africa/benin/mono/grand-popo-52365/"
+          },
+          "Abomey-Calavi": {
+            "url": "https://en.climate-data.org/africa/benin/atlantique/abomey-calavi-59587/"
+          },
+          "Cotonou": {
+            "url": "https://en.climate-data.org/africa/benin/littoral/cotonou-714874/"
+          },
+          "Village sur la mer": {
+            "url": "https://en.climate-data.org/africa/benin/littoral/village-sur-la-mer-686813/"
+          },
+          "Ouidah": {
+            "url": "https://en.climate-data.org/africa/benin/atlantique/ouidah-765512/"
+          },
+          "Kargui": {
+            "url": "https://en.climate-data.org/africa/benin/alibori/kargui-794838/"
+          },
+          "Molla": {
+            "url": "https://en.climate-data.org/africa/benin/alibori/molla-795014/"
+          },
+          "Birni Lafia": {
+            "url": "https://en.climate-data.org/africa/benin/alibori/birni-lafia-794839/"
+          },
+          "Malanville": {
+            "url": "https://en.climate-data.org/africa/benin/alibori/malanville-46553/"
+          },
+          "Koki": {
+            "url": "https://en.climate-data.org/africa/benin/alibori/koki-795013/"
+          }
+        }
+      },
+      "Botswana": {
+        "url": "https://en.climate-data.org/africa/botswana-115/",
+        "cities": {
+          "Gaborone": {
+            "url": "https://en.climate-data.org/africa/botswana/south-east-district/gaborone-653/"
+          },
+          "Palapye": {
+            "url": "https://en.climate-data.org/africa/botswana/central-district/palapye-56161/"
+          },
+          "Ghanzi": {
+            "url": "https://en.climate-data.org/africa/botswana/ghanzi-district/ghanzi-3219/"
+          },
+          "Kang": {
+            "url": "https://en.climate-data.org/africa/botswana/kgalagadi-district/kang-765241/"
+          },
+          "Tati Siding": {
+            "url": "https://en.climate-data.org/africa/botswana/north-east-district/tati-siding-922554/"
+          },
+          "Bobonong": {
+            "url": "https://en.climate-data.org/africa/botswana/central-district/bobonong-923395/"
+          },
+          "Maralaleng": {
+            "url": "https://en.climate-data.org/africa/botswana/kgalagadi-district/maralaleng-914469/"
+          },
+          "Omaweneno": {
+            "url": "https://en.climate-data.org/africa/botswana/kgalagadi-district/omaweneno-914468/"
+          },
+          "Maleshe": {
+            "url": "https://en.climate-data.org/africa/botswana/kgalagadi-district/maleshe-914467/"
+          },
+          "Tsabong": {
+            "url": "https://en.climate-data.org/africa/botswana/kgalagadi-district/tsabong-914466/"
+          }
+        }
+      },
+      "Burkina Faso": {
+        "url": "https://en.climate-data.org/africa/burkina-faso-14/",
+        "cities": {
+          "Ouagadougou": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/centre/ouagadougou-512/"
+          },
+          "Saonre": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/centre/saonre-490650/"
+          },
+          "Garghin": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/centre/garghin-481816/"
+          },
+          "Loumbila": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/central-plateau/loumbila-490328/"
+          },
+          "Dori": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/sahel/dori-32200/"
+          },
+          "Bobo-Dioulasso": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/upper-basins/bobo-dioulasso-3162/"
+          },
+          "Banfora": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/waterfalls/banfora-3745/"
+          },
+          "Houndé": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/upper-basins/hounde-53486/"
+          },
+          "Dissin": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/southwest/dissin-480391/"
+          },
+          "Pama": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/east/pama-52507/"
+          },
+          "Gorom-Gorom": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/sahel/gorom-gorom-762154/"
+          },
+          "Doundoubangou": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/sahel/doundoubangou-491565/"
+          },
+          "Koutougou": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/sahel/koutougou-886071/"
+          },
+          "Touka Bayel": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/sahel/touka-bayel-491535/"
+          },
+          "Touka Korno": {
+            "url": "https://en.climate-data.org/africa/burkina-faso/sahel/touka-korno-491536/"
+          }
+        }
+      },
+      "Burundi": {
+        "url": "https://en.climate-data.org/africa/burundi-73/",
+        "cities": {
+          "Bujumbura": {
+            "url": "https://en.climate-data.org/africa/burundi/bujumbura-mairie/bujumbura-1073/"
+          },
+          "Nyagisozi": {
+            "url": "https://en.climate-data.org/africa/burundi/kirundo/nyagisozi-991647/"
+          },
+          "Giteranyi": {
+            "url": "https://en.climate-data.org/africa/burundi/muyinga/giteranyi-924442/"
+          },
+          "Gatare": {
+            "url": "https://en.climate-data.org/africa/burundi/kirundo/gatare-924443/"
+          },
+          "Mugongo": {
+            "url": "https://en.climate-data.org/africa/burundi/kirundo/mugongo-1023840/"
+          },
+          "Butihinda": {
+            "url": "https://en.climate-data.org/africa/burundi/muyinga/butihinda-786975/"
+          },
+          "Itaba": {
+            "url": "https://en.climate-data.org/africa/burundi/gitega/itaba-991617/"
+          },
+          "Mpinga": {
+            "url": "https://en.climate-data.org/africa/burundi/rutana/mpinga-1023831/"
+          },
+          "Ngoma": {
+            "url": "https://en.climate-data.org/africa/burundi/rutana/ngoma-991616/"
+          },
+          "Mpinga-Kayove": {
+            "url": "https://en.climate-data.org/africa/burundi/rutana/mpinga-kayove-924420/"
+          }
+        }
+      },
+      "Cameroon": {
+        "url": "https://en.climate-data.org/africa/cameroon-142/",
+        "cities": {
+          "Yaounde": {
+            "url": "https://en.climate-data.org/africa/cameroon/centre/yaounde-3987/"
+          },
+          "Dschang": {
+            "url": "https://en.climate-data.org/africa/cameroon/west/dschang-52924/"
+          },
+          "Ngaoundéré": {
+            "url": "https://en.climate-data.org/africa/cameroon/adamawa/ngaoundere-898011/"
+          },
+          "Mbalngang": {
+            "url": "https://en.climate-data.org/africa/cameroon/centre/mbalngang-893533/"
+          },
+          "Bertoua": {
+            "url": "https://en.climate-data.org/africa/cameroon/east/bertoua-1000032/"
+          },
+          "Douala": {
+            "url": "https://en.climate-data.org/africa/cameroon/littoral/douala-890444/"
+          },
+          "Deido": {
+            "url": "https://en.climate-data.org/africa/cameroon/littoral/deido-52873/"
+          },
+          "Bonamoussadi Village": {
+            "url": "https://en.climate-data.org/africa/cameroon/littoral/bonamoussadi-village-890448/"
+          },
+          "Nyalla": {
+            "url": "https://en.climate-data.org/africa/cameroon/littoral/nyalla-890450/"
+          },
+          "Bangue K.44": {
+            "url": "https://en.climate-data.org/africa/cameroon/littoral/bangue-k-44-890455/"
+          },
+          "Maroua": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/maroua-52884/"
+          },
+          "Kousséri": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/kousseri-3006/"
+          },
+          "Mora": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/mora-902284/"
+          },
+          "Faraoulo": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/faraoulo-902418/"
+          },
+          "Mafandé": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/mafande-902594/"
+          },
+          "Bamendjou": {
+            "url": "https://en.climate-data.org/africa/cameroon/west/bamendjou-894471/"
+          },
+          "Fotang": {
+            "url": "https://en.climate-data.org/africa/cameroon/southwest/fotang-893845/"
+          },
+          "Wontoko": {
+            "url": "https://en.climate-data.org/africa/cameroon/northwest/wontoko-893848/"
+          },
+          "Kwang": {
+            "url": "https://en.climate-data.org/africa/cameroon/northwest/kwang-893847/"
+          },
+          "Fossimondi": {
+            "url": "https://en.climate-data.org/africa/cameroon/southwest/fossimondi-893844/"
+          },
+          "Mahale": {
+            "url": "https://en.climate-data.org/africa/cameroon/south/mahale-890170/"
+          },
+          "Kribi": {
+            "url": "https://en.climate-data.org/africa/cameroon/south/kribi-32325/"
+          },
+          "Mabiogo": {
+            "url": "https://en.climate-data.org/africa/cameroon/south/mabiogo-779504/"
+          },
+          "Mintom": {
+            "url": "https://en.climate-data.org/africa/cameroon/south/mintom-890123/"
+          },
+          "Campo": {
+            "url": "https://en.climate-data.org/africa/cameroon/south/campo-182492/"
+          },
+          "Ardéb": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/ardeb-902739/"
+          },
+          "Gourgourra": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/gourgourra-902639/"
+          },
+          "Djayaya": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/djayaya-902644/"
+          },
+          "Golmo": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/golmo-902645/"
+          },
+          "MAdaik": {
+            "url": "https://en.climate-data.org/africa/cameroon/far-north/madaik-902646/"
+          },
+          "Mbondoua": {
+            "url": "https://en.climate-data.org/africa/cameroon/southwest/mbondoua-890301/"
+          }
+        }
+      },
+      "Cape Verde": {
+        "url": "https://en.climate-data.org/africa/cape-verde-76/",
+        "cities": {
+          "São Filipe": {
+            "url": "https://en.climate-data.org/africa/cape-verde/sao-filipe/sao-filipe-3105/"
+          },
+          "Mindelo": {
+            "url": "https://en.climate-data.org/africa/cape-verde/mindelo/mindelo-766624/"
+          },
+          "Ribeira Grande de Santiago (Cidade Velha)": {
+            "url": "https://en.climate-data.org/africa/cape-verde/ribeira-grande-de-santiago-cidade-velha/ribeira-grande-de-santiago-cidade-velha-25903/"
+          },
+          "Ponta do Sol": {
+            "url": "https://en.climate-data.org/africa/cape-verde/ponta-do-sol/ponta-do-sol-766625/"
+          },
+          "Palmarejo": {
+            "url": "https://en.climate-data.org/africa/cape-verde/palmarejo/palmarejo-880460/"
+          },
+          "Assomada (Santa Catarina)": {
+            "url": "https://en.climate-data.org/africa/cape-verde/assomada-santa-catarina/assomada-santa-catarina-46567/"
+          },
+          "Picos": {
+            "url": "https://en.climate-data.org/africa/cape-verde/picos/picos-492420/"
+          },
+          "Xôxô": {
+            "url": "https://en.climate-data.org/africa/cape-verde/xoxo/xoxo-789807/"
+          },
+          "Pia de Cima": {
+            "url": "https://en.climate-data.org/africa/cape-verde/pia-de-cima/pia-de-cima-880449/"
+          },
+          "Boca de Ambas as Ribeiras": {
+            "url": "https://en.climate-data.org/africa/cape-verde/boca-de-ambas-as-ribeiras/boca-de-ambas-as-ribeiras-880448/"
+          },
+          "(Chã das Caldeiras) destroyed by lava": {
+            "url": "https://en.climate-data.org/africa/cape-verde/cha-das-caldeiras-destroyed-by-lava/cha-das-caldeiras-destroyed-by-lava-880440/"
+          },
+          "Boca Larga": {
+            "url": "https://en.climate-data.org/africa/cape-verde/boca-larga/boca-larga-492469/"
+          },
+          "Estância Roque": {
+            "url": "https://en.climate-data.org/africa/cape-verde/estancia-roque/estancia-roque-999184/"
+          },
+          "Pico da Cruz": {
+            "url": "https://en.climate-data.org/africa/cape-verde/pico-da-cruz/pico-da-cruz-1044466/"
+          },
+          "Espongeiro": {
+            "url": "https://en.climate-data.org/africa/cape-verde/espongeiro/espongeiro-789782/"
+          }
+        }
+      },
+      "Central African Republic": {
+        "url": "https://en.climate-data.org/africa/central-african-republic-168/",
+        "cities": {
+          "Bangui": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/ombella-m-poko/bangui-509/"
+          },
+          "Bocaranga": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/ouham-pende/bocaranga-764242/"
+          },
+          "Zemio": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/haut-mbomou/zemio-54163/"
+          },
+          "Ouanda Djallé": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/vakaga/ouanda-djalle-780605/"
+          },
+          "Babua": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/nana-mambere/babua-900972/"
+          },
+          "Zime Fleuve": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/mbomou/zime-fleuve-1048729/"
+          },
+          "Mbalagbolo": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/mbomou/mbalagbolo-1048736/"
+          },
+          "Samba": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/mbomou/samba-1048738/"
+          },
+          "Balikengué": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/mbomou/balikengue-1048739/"
+          },
+          "Zaboutou": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/lobaye/zaboutou-907404/"
+          },
+          "Birao": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/vakaga/birao-32023/"
+          },
+          "Ganai 2": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/vakaga/ganai-2-1023529/"
+          },
+          "Tissi": {
+            "url": "https://en.climate-data.org/africa/central-african-republic/vakaga/tissi-1023530/"
+          }
+        }
+      },
+      "Chad": {
+        "url": "https://en.climate-data.org/africa/chad-59/",
+        "cities": {
+          "Sarh": {
+            "url": "https://en.climate-data.org/africa/chad/moyen-chari-region/sarh-4189/"
+          },
+          "Koumra": {
+            "url": "https://en.climate-data.org/africa/chad/moyen-chari-region/koumra-23240/"
+          },
+          "Doba": {
+            "url": "https://en.climate-data.org/africa/chad/logone-oriental/doba-34550/"
+          },
+          "Bire": {
+            "url": "https://en.climate-data.org/africa/chad/mandoul/bire-1023379/"
+          },
+          "Ferick Gangoro": {
+            "url": "https://en.climate-data.org/africa/chad/mandoul/ferick-gangoro-1023378/"
+          },
+          "Abéché": {
+            "url": "https://en.climate-data.org/africa/chad/ouaddai-region/abeche-15877/"
+          },
+          "Ati": {
+            "url": "https://en.climate-data.org/africa/chad/batha-region/ati-15881/"
+          },
+          "Fada": {
+            "url": "https://en.climate-data.org/africa/chad/ennedi-region/fada-32133/"
+          },
+          "Oum Hadjer": {
+            "url": "https://en.climate-data.org/africa/chad/batha-region/oum-hadjer-15880/"
+          },
+          "Massaguet": {
+            "url": "https://en.climate-data.org/africa/chad/hadjer-lamis-region/massaguet-26011/"
+          },
+          "N'Djamena": {
+            "url": "https://en.climate-data.org/africa/chad/n-djamena-region/n-djamena-516/"
+          },
+          "Adré": {
+            "url": "https://en.climate-data.org/africa/chad/ouaddai-region/adre-15885/"
+          },
+          "Kajabagul": {
+            "url": "https://en.climate-data.org/africa/chad/sila-region/kajabagul-459414/"
+          },
+          "Dourbali": {
+            "url": "https://en.climate-data.org/africa/chad/chari-baguirmi-region/dourbali-60196/"
+          },
+          "Pont Belile": {
+            "url": "https://en.climate-data.org/africa/chad/hadjer-lamis-region/pont-belile-902675/"
+          }
+        }
+      }
+    }
+  },
+  "Europe": {
+    "url": "https://en.climate-data.org/continent/europe/",
+    "countries": {
+      "Albania": {
+        "url": "https://en.climate-data.org/europe/albania-68/",
+        "cities": {
+          "Tirana": {
+            "url": "https://en.climate-data.org/europe/albania/tirana/tirana-714992/"
+          },
+          "Durrës": {
+            "url": "https://en.climate-data.org/europe/albania/durres/durres-907625/"
+          },
+          "Posta Elbasan": {
+            "url": "https://en.climate-data.org/europe/albania/posta-elbasan/posta-elbasan-764510/"
+          },
+          "Vlora": {
+            "url": "https://en.climate-data.org/europe/albania/vlora/vlora-831/"
+          },
+          "Berat": {
+            "url": "https://en.climate-data.org/europe/albania/berat/berat-3431/"
+          },
+          "Korçë": {
+            "url": "https://en.climate-data.org/europe/albania/korce/korce-5958/"
+          },
+          "Kruje": {
+            "url": "https://en.climate-data.org/europe/albania/kruje/kruje-46752/"
+          },
+          "Pogradec": {
+            "url": "https://en.climate-data.org/europe/albania/pogradec/pogradec-911992/"
+          },
+          "Peshkopi": {
+            "url": "https://en.climate-data.org/europe/albania/peshkopi/peshkopi-37595/"
+          },
+          "Çetë": {
+            "url": "https://en.climate-data.org/europe/albania/cete/cete-468017/"
+          },
+          "Zhitom i Vogël": {
+            "url": "https://en.climate-data.org/europe/albania/zhitom-i-vogel/zhitom-i-vogel-471759/"
+          },
+          "Tresovë": {
+            "url": "https://en.climate-data.org/europe/albania/tresove/tresove-467960/"
+          },
+          "Odriçan": {
+            "url": "https://en.climate-data.org/europe/albania/odrican/odrican-471879/"
+          },
+          "Sevran i Madh": {
+            "url": "https://en.climate-data.org/europe/albania/sevran-i-madh/sevran-i-madh-470155/"
+          },
+          "Nivicë": {
+            "url": "https://en.climate-data.org/europe/albania/nivice/nivice-468324/"
+          },
+          "Theth": {
+            "url": "https://en.climate-data.org/europe/albania/theth/theth-469575/"
+          },
+          "Razëm": {
+            "url": "https://en.climate-data.org/europe/albania/razem/razem-907799/"
+          },
+          "Gegaj": {
+            "url": "https://en.climate-data.org/europe/albania/gegaj/gegaj-470457/"
+          },
+          "Grapsh": {
+            "url": "https://en.climate-data.org/europe/albania/grapsh/grapsh-468023/"
+          },
+          "Gjyras": {
+            "url": "https://en.climate-data.org/europe/albania/gjyras/gjyras-467981/"
+          },
+          "Shkoder": {
+            "url": "https://en.climate-data.org/europe/albania/shkoder/shkoder-3429/"
+          },
+          "Kukës": {
+            "url": "https://en.climate-data.org/europe/albania/kukes/kukes-46032/"
+          },
+          "Bajram Curri": {
+            "url": "https://en.climate-data.org/europe/albania/bajram-curri/bajram-curri-768342/"
+          },
+          "Palaj": {
+            "url": "https://en.climate-data.org/europe/albania/palaj/palaj-470016/"
+          },
+          "Kaçinar": {
+            "url": "https://en.climate-data.org/europe/albania/kacinar/kacinar-470732/"
+          },
+          "Terzë": {
+            "url": "https://en.climate-data.org/europe/albania/terze/terze-469612/"
+          }
+        }
+      },
+      "Andorra": {
+        "url": "https://en.climate-data.org/europe/andorra-6/",
+        "cities": {
+          "Andorra la Vella": {
+            "url": "https://en.climate-data.org/europe/andorra/andorra-la-vella/andorra-la-vella-12720/"
+          },
+          "Erts": {
+            "url": "https://en.climate-data.org/europe/andorra/erts/erts-113722/"
+          },
+          "La Massana": {
+            "url": "https://en.climate-data.org/europe/andorra/la-massana/la-massana-13730/"
+          },
+          "Engolasters": {
+            "url": "https://en.climate-data.org/europe/andorra/engolasters/engolasters-833847/"
+          },
+          "Sant Julià de Lòria": {
+            "url": "https://en.climate-data.org/europe/andorra/sant-julia-de-loria/sant-julia-de-loria-13729/"
+          },
+          "Arinsal": {
+            "url": "https://en.climate-data.org/europe/andorra/arinsal/arinsal-113725/"
+          },
+          "Prats": {
+            "url": "https://en.climate-data.org/europe/andorra/prats/prats-113715/"
+          },
+          "Canillo": {
+            "url": "https://en.climate-data.org/europe/andorra/canillo/canillo-13728/"
+          },
+          "Ransol": {
+            "url": "https://en.climate-data.org/europe/andorra/ransol/ransol-113720/"
+          },
+          "el Tarter": {
+            "url": "https://en.climate-data.org/europe/andorra/el-tarter/el-tarter-113714/"
+          },
+          "Soldeu": {
+            "url": "https://en.climate-data.org/europe/andorra/soldeu/soldeu-113732/"
+          },
+          "Pas de la Casa": {
+            "url": "https://en.climate-data.org/europe/andorra/pas-de-la-casa/pas-de-la-casa-113718/"
+          },
+          "Grau Roig": {
+            "url": "https://en.climate-data.org/europe/andorra/grau-roig/grau-roig-187298/"
+          }
+        }
+      },
+      "Armenia": {
+        "url": "https://en.climate-data.org/asia/armenia-10/",
+        "cities": {
+          "Gyumri": {
+            "url": "https://en.climate-data.org/asia/armenia/shirak/gyumri-1345/"
+          },
+          "Vanadzor": {
+            "url": "https://en.climate-data.org/asia/armenia/lori/vanadzor-2019/"
+          },
+          "Sevan": {
+            "url": "https://en.climate-data.org/asia/armenia/gegharkunik/sevan-21579/"
+          },
+          "Goris": {
+            "url": "https://en.climate-data.org/asia/armenia/syunik/goris-21614/"
+          },
+          "Dilijan": {
+            "url": "https://en.climate-data.org/asia/armenia/tavush/dilijan-21580/"
+          },
+          "Yerevan": {
+            "url": "https://en.climate-data.org/asia/armenia/yerevan/yerevan-1347/"
+          },
+          "Vagharshapat": {
+            "url": "https://en.climate-data.org/asia/armenia/armavir/vagharshapat-15442/"
+          },
+          "Artashat": {
+            "url": "https://en.climate-data.org/asia/armenia/ararat/artashat-2028/"
+          },
+          "Kapan": {
+            "url": "https://en.climate-data.org/asia/armenia/syunik/kapan-2025/"
+          },
+          "Armavir": {
+            "url": "https://en.climate-data.org/asia/armenia/armavir/armavir-1348/"
+          },
+          "Alaverdi": {
+            "url": "https://en.climate-data.org/asia/armenia/lori/alaverdi-21588/"
+          },
+          "Yeghegnadzor": {
+            "url": "https://en.climate-data.org/asia/armenia/vayots-dzor/yeghegnadzor-2024/"
+          },
+          "Vayk": {
+            "url": "https://en.climate-data.org/asia/armenia/vayots-dzor/vayk-21604/"
+          },
+          "Zovuni": {
+            "url": "https://en.climate-data.org/asia/armenia/yerevan/zovuni-853567/"
+          },
+          "Ashtarak": {
+            "url": "https://en.climate-data.org/asia/armenia/aragatsotn-region/ashtarak-1344/"
+          },
+          "Ijevan": {
+            "url": "https://en.climate-data.org/asia/armenia/tavush/ijevan-2018/"
+          },
+          "Akhtala": {
+            "url": "https://en.climate-data.org/asia/armenia/lori/akhtala-665789/"
+          },
+          "Chochkan": {
+            "url": "https://en.climate-data.org/asia/armenia/lori/chochkan-52339/"
+          },
+          "Kirants": {
+            "url": "https://en.climate-data.org/asia/armenia/tavush/kirants-342390/"
+          },
+          "Vazashen": {
+            "url": "https://en.climate-data.org/asia/armenia/tavush/vazashen-488598/"
+          },
+          "Saragyugh": {
+            "url": "https://en.climate-data.org/asia/armenia/shirak/saragyugh-494437/"
+          }
+        }
+      },
+      "Austria": {
+        "url": "https://en.climate-data.org/europe/austria-4/",
+        "cities": {
+          "Vienna": {
+            "url": "https://en.climate-data.org/europe/austria/vienna/vienna-41/"
+          },
+          "Graz": {
+            "url": "https://en.climate-data.org/europe/austria/styria/graz-83/"
+          },
+          "Linz": {
+            "url": "https://en.climate-data.org/europe/austria/upper-austria/linz-133/"
+          },
+          "Salzburg": {
+            "url": "https://en.climate-data.org/europe/austria/salzburg-state/salzburg-860/"
+          },
+          "Innsbruck": {
+            "url": "https://en.climate-data.org/europe/austria/tyrol/innsbruck-859/"
+          },
+          "Lech": {
+            "url": "https://en.climate-data.org/europe/austria/vorarlberg/lech-117363/"
+          },
+          "Trins": {
+            "url": "https://en.climate-data.org/europe/austria/tyrol/trins-155772/"
+          },
+          "Galtür": {
+            "url": "https://en.climate-data.org/europe/austria/tyrol/galtuer-110031/"
+          },
+          "Hohentauern": {
+            "url": "https://en.climate-data.org/europe/austria/styria/hohentauern-159023/"
+          },
+          "Obergurgl": {
+            "url": "https://en.climate-data.org/europe/austria/tyrol/obergurgl-158443/"
+          },
+          "Turracher Höhe": {
+            "url": "https://en.climate-data.org/europe/austria/carinthia/turracher-hoehe-118504/"
+          },
+          "Kühtai": {
+            "url": "https://en.climate-data.org/europe/austria/tyrol/kuehtai-111749/"
+          }
+        }
+      },
+      "Azerbaijan": {
+        "url": "https://en.climate-data.org/asia/azerbaijan-112/",
+        "cities": {
+          "Baku": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/bak%c4%b1-inzibati-%c9%99razisi/baku-764549/"
+          },
+          "Sumgayit": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/sumqay%c4%b1t-inzibati-%c9%99razisi/sumgayit-5781/"
+          },
+          "Ganja": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/goygol-district/g%c9%99nc%c9%99-1789/"
+          },
+          "Mingachevir": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/ming%c9%99cevir-inzibati-%c9%99razisi/mingachevir-2091/"
+          },
+          "Şirvan": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/sirvan-inzibati-%c9%99razisi/sirvan-2090/"
+          },
+          "Toğanalı": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/goygol-district/toganal%c4%b1-1054567/"
+          },
+          "Kiş": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/s%c9%99ki-rayonu/kis-955088/"
+          },
+          "Gədəbəy": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/g%c9%99d%c9%99b%c9%99y-rayonu/g%c9%99d%c9%99b%c9%99y-21865/"
+          },
+          "Yuxarı Daşkəsən": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/dask%c9%99s%c9%99n-rayonu/yuxar%c4%b1-dask%c9%99s%c9%99n-21902/"
+          },
+          "Shusha / Shushi": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/shusha-shushi/shusha-shushi-21621/"
+          },
+          "Şəki": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/q%c9%99b%c9%99l%c9%99-rayonu/s%c9%99ki-2092/"
+          },
+          "İsmayıllı": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/ismay%c4%b1ll%c4%b1-rayonu/ismay%c4%b1ll%c4%b1-28489/"
+          },
+          "Oğuz": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/oguz-rayonu/oguz-715036/"
+          },
+          "Gəncə": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/goygol-district/g%c9%99nc%c9%99-1789/"
+          },
+          "Stepanakert": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/stepanakert/stepanakert-1054894/"
+          },
+          "Lankaran": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/l%c9%99nk%c9%99ran-inzibati-%c9%99razisi/lankaran-21891/"
+          },
+          "Cəlilabad": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/c%c9%99lilabad-rayonu/c%c9%99lilabad-21887/"
+          },
+          "Şamaxı": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/samax%c4%b1-rayonu/samax%c4%b1-2082/"
+          },
+          "Ağsu": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/agsu-rayonu/agsu-21851/"
+          },
+          "Masallı": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/masall%c4%b1-rayonu/masall%c4%b1-21888/"
+          },
+          "Quba": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/quba-rayonu/quba-23897/"
+          },
+          "Gabala": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/q%c9%99b%c9%99l%c9%99-rayonu/gabala-23898/"
+          },
+          "Vəndam": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/q%c9%99b%c9%99l%c9%99-rayonu/v%c9%99ndam-955092/"
+          },
+          "Qusar": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/qusar-rayonu/qusar-23902/"
+          },
+          "İvanovka": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/ismay%c4%b1ll%c4%b1-rayonu/ivanovka-753101/"
+          },
+          "Vov": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/lerik-rayonu/vov-1058043/"
+          },
+          "Siyov": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/lerik-rayonu/siyov-1058044/"
+          },
+          "Lerik": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/lerik-rayonu/lerik-21890/"
+          },
+          "Şəfəqli": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/yard%c4%b1ml%c4%b1-rayonu/s%c9%99f%c9%99qli-1058042/"
+          }
+        }
+      },
+      "Belarus": {
+        "url": "https://en.climate-data.org/europe/belarus-16/",
+        "cities": {
+          "Minsk": {
+            "url": "https://en.climate-data.org/europe/belarus/minsk/minsk-223/"
+          },
+          "Homel": {
+            "url": "https://en.climate-data.org/europe/belarus/homiel-raion/homel-222/"
+          },
+          "Vitebsk": {
+            "url": "https://en.climate-data.org/europe/belarus/vitebsk-region/vitebsk-2174/"
+          },
+          "Mahilyow": {
+            "url": "https://en.climate-data.org/europe/belarus/maglieu-region/mahilyow-3500/"
+          },
+          "Hrodna": {
+            "url": "https://en.climate-data.org/europe/belarus/hrodna-region/hrodna-4559/"
+          }
+        }
+      },
+      "Belgium": {
+        "url": "https://en.climate-data.org/europe/belgium-233/",
+        "cities": {
+          "Antwerp": {
+            "url": "https://en.climate-data.org/europe/belgium/flanders/antwerp-714869/"
+          },
+          "Ghent": {
+            "url": "https://en.climate-data.org/europe/belgium/flanders/ghent-6350/"
+          },
+          "Charleroi": {
+            "url": "https://en.climate-data.org/europe/belgium/wallonia/charleroi-14/"
+          },
+          "Liège": {
+            "url": "https://en.climate-data.org/europe/belgium/wallonia/liege-6396/"
+          },
+          "Brussels": {
+            "url": "https://en.climate-data.org/europe/belgium/brussels-capital/brussels-6316/"
+          },
+          "Bastogne": {
+            "url": "https://en.climate-data.org/europe/belgium/wallonia/bastogne-54895/"
+          },
+          "Waimes": {
+            "url": "https://en.climate-data.org/europe/belgium/wallonia/waimes-333818/"
+          },
+          "Bütgenbach": {
+            "url": "https://en.climate-data.org/europe/belgium/wallonia/buetgenbach-153242/"
+          },
+          "Saint-Hubert": {
+            "url": "https://en.climate-data.org/europe/belgium/wallonia/saint-hubert-117737/"
+          },
+          "Ovifat": {
+            "url": "https://en.climate-data.org/europe/belgium/wallonia/ovifat-177235/"
+          }
+        }
+      },
+      "Bosnia and Herzegovina": {
+        "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina-244/",
+        "cities": {
+          "Sarajevo": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/sarajevo/sarajevo-764500/"
+          },
+          "Visoko": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/visoko/visoko-14568/"
+          },
+          "Jahorina": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/jahorina/jahorina-908412/"
+          },
+          "Gornja Slatina": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/gornja-slatina/gornja-slatina-284706/"
+          },
+          "Babanovac": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/babanovac/babanovac-1023429/"
+          },
+          "Banja Luka": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/banja-luka/banja-luka-2918/"
+          },
+          "Tuzla": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/tuzla/tuzla-3437/"
+          },
+          "Bihać": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/bihac/bihac-58592/"
+          },
+          "Kulen Vakuf": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/kulen-vakuf/kulen-vakuf-119299/"
+          },
+          "Zenica": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/zenica/zenica-764499/"
+          },
+          "Mostar": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/mostar/mostar-618/"
+          },
+          "Medjugorje": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/medjugorje/medjugorje-763809/"
+          },
+          "Blagaj": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/blagaj/blagaj-221910/"
+          },
+          "Konjic": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/konjic/konjic-14754/"
+          },
+          "Ljubuški": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/ljubuski/ljubuski-44444/"
+          },
+          "Trebinje": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/trebinje/trebinje-25819/"
+          },
+          "Ivanica": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/ivanica/ivanica-184954/"
+          },
+          "Neum": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/neum/neum-26110/"
+          },
+          "Orah": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/orah/orah-502342/"
+          },
+          "Diklići": {
+            "url": "https://en.climate-data.org/europe/bosnia-and-herzegovina/diklici/diklici-703219/"
+          }
+        }
+      },
+      "Bulgaria": {
+        "url": "https://en.climate-data.org/europe/bulgaria-141/",
+        "cities": {
+          "Sofia": {
+            "url": "https://en.climate-data.org/europe/bulgaria/sofia/sofia-6424/"
+          },
+          "Pernik": {
+            "url": "https://en.climate-data.org/europe/bulgaria/pernik/pernik-691/"
+          },
+          "Sliven": {
+            "url": "https://en.climate-data.org/europe/bulgaria/sliven/sliven-695/"
+          },
+          "Shumen": {
+            "url": "https://en.climate-data.org/europe/bulgaria/shumen/shumen-3448/"
+          },
+          "Veliko Tarnovo": {
+            "url": "https://en.climate-data.org/europe/bulgaria/veliko-tarnovo/veliko-tarnovo-699/"
+          },
+          "Plovdiv": {
+            "url": "https://en.climate-data.org/europe/bulgaria/plovdiv/plovdiv-6417/"
+          },
+          "Varna": {
+            "url": "https://en.climate-data.org/europe/bulgaria/varna/varna-698/"
+          },
+          "Burgas": {
+            "url": "https://en.climate-data.org/europe/bulgaria/burgas/burgas-681/"
+          },
+          "Stara Zagora": {
+            "url": "https://en.climate-data.org/europe/bulgaria/stara-zagora/stara-zagora-5629/"
+          },
+          "Haskovo": {
+            "url": "https://en.climate-data.org/europe/bulgaria/haskovo/haskovo-684/"
+          },
+          "Dobrich": {
+            "url": "https://en.climate-data.org/europe/bulgaria/dobrich/dobrich-682/"
+          },
+          "Kyustendil": {
+            "url": "https://en.climate-data.org/europe/bulgaria/kyustendil/kyustendil-687/"
+          },
+          "Sveti Vlas": {
+            "url": "https://en.climate-data.org/europe/bulgaria/sveti-vlas/sveti-vlas-28403/"
+          },
+          "Balchik": {
+            "url": "https://en.climate-data.org/europe/bulgaria/balchik/balchik-28188/"
+          },
+          "Topola": {
+            "url": "https://en.climate-data.org/europe/bulgaria/topola/topola-198125/"
+          },
+          "Ruse": {
+            "url": "https://en.climate-data.org/europe/bulgaria/ruse/ruse-1773/"
+          },
+          "Pleven": {
+            "url": "https://en.climate-data.org/europe/bulgaria/pleven/pleven-692/"
+          },
+          "Vidin": {
+            "url": "https://en.climate-data.org/europe/bulgaria/vidin/vidin-700/"
+          },
+          "Silistra": {
+            "url": "https://en.climate-data.org/europe/bulgaria/silistra/silistra-694/"
+          },
+          "Lovech": {
+            "url": "https://en.climate-data.org/europe/bulgaria/lovech/lovech-688/"
+          },
+          "Momchilgrad": {
+            "url": "https://en.climate-data.org/europe/bulgaria/momchilgrad/momchilgrad-28298/"
+          },
+          "Varli Dol": {
+            "url": "https://en.climate-data.org/europe/bulgaria/varli-dol/varli-dol-197255/"
+          },
+          "Barzeia": {
+            "url": "https://en.climate-data.org/europe/bulgaria/barzeia/barzeia-195504/"
+          },
+          "Pokrovan": {
+            "url": "https://en.climate-data.org/europe/bulgaria/pokrovan/pokrovan-198218/"
+          },
+          "Huhla": {
+            "url": "https://en.climate-data.org/europe/bulgaria/huhla/huhla-198298/"
+          },
+          "Strijba": {
+            "url": "https://en.climate-data.org/europe/bulgaria/strijba/strijba-198468/"
+          },
+          "Egrek": {
+            "url": "https://en.climate-data.org/europe/bulgaria/egrek/egrek-198662/"
+          },
+          "Limets": {
+            "url": "https://en.climate-data.org/europe/bulgaria/limets/limets-196207/"
+          },
+          "Goliam Devesil": {
+            "url": "https://en.climate-data.org/europe/bulgaria/goliam-devesil/goliam-devesil-196016/"
+          },
+          "Malak Devesil": {
+            "url": "https://en.climate-data.org/europe/bulgaria/malak-devesil/malak-devesil-196353/"
+          }
+        }
+      },
+      "Croatia": {
+        "url": "https://en.climate-data.org/europe/croatia-82/",
+        "cities": {
+          "Zagreb": {
+            "url": "https://en.climate-data.org/europe/croatia/zagreb/zagreb-6179/"
+          },
+          "Osijek": {
+            "url": "https://en.climate-data.org/europe/croatia/osijek/osijek-3084/"
+          },
+          "Slavonski Brod": {
+            "url": "https://en.climate-data.org/europe/croatia/slavonski-brod/slavonski-brod-6256/"
+          },
+          "Varaždin": {
+            "url": "https://en.climate-data.org/europe/croatia/varazdin/varazdin-4079/"
+          },
+          "Vinkovci": {
+            "url": "https://en.climate-data.org/europe/croatia/vinkovci/vinkovci-58449/"
+          },
+          "Rijeka": {
+            "url": "https://en.climate-data.org/europe/croatia/rijeka/rijeka-579/"
+          },
+          "Zadar": {
+            "url": "https://en.climate-data.org/europe/croatia/zadar/zadar-714989/"
+          },
+          "Pula": {
+            "url": "https://en.climate-data.org/europe/croatia/pula/pula-714983/"
+          },
+          "Šibenik": {
+            "url": "https://en.climate-data.org/europe/croatia/sibenik/sibenik-27960/"
+          },
+          "Sinj": {
+            "url": "https://en.climate-data.org/europe/croatia/sinj/sinj-46490/"
+          },
+          "Karlovac": {
+            "url": "https://en.climate-data.org/europe/croatia/karlovac/karlovac-33794/"
+          },
+          "Daruvar": {
+            "url": "https://en.climate-data.org/europe/croatia/daruvar/daruvar-58040/"
+          },
+          "Gračac": {
+            "url": "https://en.climate-data.org/europe/croatia/gracac/gracac-51162/"
+          },
+          "Sveti Petar u Šumi": {
+            "url": "https://en.climate-data.org/europe/croatia/sveti-petar-u-sumi/sveti-petar-u-sumi-474057/"
+          },
+          "Poljane": {
+            "url": "https://en.climate-data.org/europe/croatia/poljane/poljane-732537/"
+          },
+          "Split": {
+            "url": "https://en.climate-data.org/europe/croatia/split/split-6116/"
+          },
+          "Dubrovnik": {
+            "url": "https://en.climate-data.org/europe/croatia/dubrovnik/dubrovnik-6244/"
+          },
+          "Kaštela": {
+            "url": "https://en.climate-data.org/europe/croatia/kastela/kastela-47357/"
+          },
+          "Solin": {
+            "url": "https://en.climate-data.org/europe/croatia/solin/solin-58414/"
+          },
+          "Omiš": {
+            "url": "https://en.climate-data.org/europe/croatia/omis/omis-58402/"
+          }
+        }
+      }
+    }
+  },
+  "Asia": {
+    "url": "https://en.climate-data.org/continent/asia/",
+    "countries": {
+      "Afghanistan": {
+        "url": "https://en.climate-data.org/asia/afghanistan-3/",
+        "cities": {
+          "Kandahar": {
+            "url": "https://en.climate-data.org/asia/afghanistan/kandahar/kandahar-1255/"
+          },
+          "Jalalabad": {
+            "url": "https://en.climate-data.org/asia/afghanistan/nangarhar/jalalabad-1010/"
+          },
+          "Lashkar Gah": {
+            "url": "https://en.climate-data.org/asia/afghanistan/helmand/lashkar-gah-3833/"
+          },
+          "Farah": {
+            "url": "https://en.climate-data.org/asia/afghanistan/farah/farah-768477/"
+          },
+          "Lala Kala": {
+            "url": "https://en.climate-data.org/asia/afghanistan/nangarhar/lala-kala-654699/"
+          },
+          "Tor Ragheh (village)": {
+            "url": "https://en.climate-data.org/asia/afghanistan/nangarhar/tor-ragheh-village-659783/"
+          },
+          "Ghadzabi village": {
+            "url": "https://en.climate-data.org/asia/afghanistan/nangarhar/ghadzabi-village-659797/"
+          },
+          "Sufi Saheb Kohi village": {
+            "url": "https://en.climate-data.org/asia/afghanistan/nangarhar/sufi-saheb-kohi-village-659780/"
+          },
+          "Dehi Ghar (village)": {
+            "url": "https://en.climate-data.org/asia/afghanistan/nangarhar/dehi-ghar-village-659781/"
+          },
+          "Chanarmasa hamlte": {
+            "url": "https://en.climate-data.org/asia/afghanistan/kunar/chanarmasa-hamlte-659649/"
+          },
+          "Almar": {
+            "url": "https://en.climate-data.org/asia/afghanistan/faryab/almar-31406/"
+          },
+          "Maymana": {
+            "url": "https://en.climate-data.org/asia/afghanistan/faryab/maymana-3835/"
+          },
+          "Qala i Naw": {
+            "url": "https://en.climate-data.org/asia/afghanistan/badghis/qala-i-naw-31490/"
+          },
+          "Asadabad": {
+            "url": "https://en.climate-data.org/asia/afghanistan/kunar/asadabad-714789/"
+          },
+          "Fayzabad": {
+            "url": "https://en.climate-data.org/asia/afghanistan/badakhshan/fayzabad-31379/"
+          },
+          "Kabul": {
+            "url": "https://en.climate-data.org/asia/afghanistan/kabul/kabul-120/"
+          },
+          "Herat": {
+            "url": "https://en.climate-data.org/asia/afghanistan/herat/herat-3834/"
+          },
+          "Mazar i sharif": {
+            "url": "https://en.climate-data.org/asia/afghanistan/balkh/mazar-i-sharif-764572/"
+          },
+          "Kunduz": {
+            "url": "https://en.climate-data.org/asia/afghanistan/kunduz/kunduz-3394/"
+          },
+          "Taloqan": {
+            "url": "https://en.climate-data.org/asia/afghanistan/takhar/taloqan-3907/"
+          },
+          "Maidan Shar": {
+            "url": "https://en.climate-data.org/asia/afghanistan/wardak/maidan-shar-768495/"
+          },
+          "withran": {
+            "url": "https://en.climate-data.org/asia/afghanistan/kunar/withran-685182/"
+          },
+          "Shamal": {
+            "url": "https://en.climate-data.org/asia/afghanistan/kunar/shamal-685180/"
+          },
+          "hghg": {
+            "url": "https://en.climate-data.org/asia/afghanistan/nangarhar/hghg-656406/"
+          },
+          "Kuran Wa Munjan": {
+            "url": "https://en.climate-data.org/asia/afghanistan/badakhshan/kuran-wa-munjan-511540/"
+          },
+          "Ghazni": {
+            "url": "https://en.climate-data.org/asia/afghanistan/ghazni/ghazni-31373/"
+          },
+          "Pul-i-Alam": {
+            "url": "https://en.climate-data.org/asia/afghanistan/logar/pul-i-alam-764571/"
+          },
+          "Warsaj": {
+            "url": "https://en.climate-data.org/asia/afghanistan/takhar/warsaj-511553/"
+          },
+          "Shahr-i-Buzurg": {
+            "url": "https://en.climate-data.org/asia/afghanistan/badakhshan/shahr-i-buzurg-511547/"
+          },
+          "Kalafgan": {
+            "url": "https://en.climate-data.org/asia/afghanistan/takhar/kalafgan-511548/"
+          },
+          "Musa Qala": {
+            "url": "https://en.climate-data.org/asia/afghanistan/helmand/musa-qala-59102/"
+          },
+          "Mohammad-hosayn Mena (village)": {
+            "url": "https://en.climate-data.org/asia/afghanistan/nangarhar/mohammad-hosayn-mena-village-659292/"
+          }
+        }
+      },
+      "Armenia": {
+        "url": "https://en.climate-data.org/asia/armenia-10/",
+        "cities": {
+          "Gyumri": {
+            "url": "https://en.climate-data.org/asia/armenia/shirak/gyumri-1345/"
+          },
+          "Vanadzor": {
+            "url": "https://en.climate-data.org/asia/armenia/lori/vanadzor-2019/"
+          },
+          "Sevan": {
+            "url": "https://en.climate-data.org/asia/armenia/gegharkunik/sevan-21579/"
+          },
+          "Goris": {
+            "url": "https://en.climate-data.org/asia/armenia/syunik/goris-21614/"
+          },
+          "Dilijan": {
+            "url": "https://en.climate-data.org/asia/armenia/tavush/dilijan-21580/"
+          },
+          "Yerevan": {
+            "url": "https://en.climate-data.org/asia/armenia/yerevan/yerevan-1347/"
+          },
+          "Vagharshapat": {
+            "url": "https://en.climate-data.org/asia/armenia/armavir/vagharshapat-15442/"
+          },
+          "Artashat": {
+            "url": "https://en.climate-data.org/asia/armenia/ararat/artashat-2028/"
+          },
+          "Kapan": {
+            "url": "https://en.climate-data.org/asia/armenia/syunik/kapan-2025/"
+          },
+          "Armavir": {
+            "url": "https://en.climate-data.org/asia/armenia/armavir/armavir-1348/"
+          },
+          "Alaverdi": {
+            "url": "https://en.climate-data.org/asia/armenia/lori/alaverdi-21588/"
+          },
+          "Yeghegnadzor": {
+            "url": "https://en.climate-data.org/asia/armenia/vayots-dzor/yeghegnadzor-2024/"
+          },
+          "Vayk": {
+            "url": "https://en.climate-data.org/asia/armenia/vayots-dzor/vayk-21604/"
+          },
+          "Zovuni": {
+            "url": "https://en.climate-data.org/asia/armenia/yerevan/zovuni-853567/"
+          },
+          "Ashtarak": {
+            "url": "https://en.climate-data.org/asia/armenia/aragatsotn-region/ashtarak-1344/"
+          },
+          "Ijevan": {
+            "url": "https://en.climate-data.org/asia/armenia/tavush/ijevan-2018/"
+          },
+          "Akhtala": {
+            "url": "https://en.climate-data.org/asia/armenia/lori/akhtala-665789/"
+          },
+          "Chochkan": {
+            "url": "https://en.climate-data.org/asia/armenia/lori/chochkan-52339/"
+          },
+          "Kirants": {
+            "url": "https://en.climate-data.org/asia/armenia/tavush/kirants-342390/"
+          },
+          "Vazashen": {
+            "url": "https://en.climate-data.org/asia/armenia/tavush/vazashen-488598/"
+          },
+          "Saragyugh": {
+            "url": "https://en.climate-data.org/asia/armenia/shirak/saragyugh-494437/"
+          }
+        }
+      },
+      "Azerbaijan": {
+        "url": "https://en.climate-data.org/asia/azerbaijan-112/",
+        "cities": {
+          "Baku": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/bak%c4%b1-inzibati-%c9%99razisi/baku-764549/"
+          },
+          "Sumgayit": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/sumqay%c4%b1t-inzibati-%c9%99razisi/sumgayit-5781/"
+          },
+          "Ganja": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/goygol-district/g%c9%99nc%c9%99-1789/"
+          },
+          "Mingachevir": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/ming%c9%99cevir-inzibati-%c9%99razisi/mingachevir-2091/"
+          },
+          "Şirvan": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/sirvan-inzibati-%c9%99razisi/sirvan-2090/"
+          },
+          "Toğanalı": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/goygol-district/toganal%c4%b1-1054567/"
+          },
+          "Kiş": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/s%c9%99ki-rayonu/kis-955088/"
+          },
+          "Gədəbəy": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/g%c9%99d%c9%99b%c9%99y-rayonu/g%c9%99d%c9%99b%c9%99y-21865/"
+          },
+          "Yuxarı Daşkəsən": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/dask%c9%99s%c9%99n-rayonu/yuxar%c4%b1-dask%c9%99s%c9%99n-21902/"
+          },
+          "Shusha / Shushi": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/shusha-shushi/shusha-shushi-21621/"
+          },
+          "Şəki": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/q%c9%99b%c9%99l%c9%99-rayonu/s%c9%99ki-2092/"
+          },
+          "İsmayıllı": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/ismay%c4%b1ll%c4%b1-rayonu/ismay%c4%b1ll%c4%b1-28489/"
+          },
+          "Oğuz": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/oguz-rayonu/oguz-715036/"
+          },
+          "Gəncə": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/goygol-district/g%c9%99nc%c9%99-1789/"
+          },
+          "Stepanakert": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/stepanakert/stepanakert-1054894/"
+          },
+          "Lankaran": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/l%c9%99nk%c9%99ran-inzibati-%c9%99razisi/lankaran-21891/"
+          },
+          "Cəlilabad": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/c%c9%99lilabad-rayonu/c%c9%99lilabad-21887/"
+          },
+          "Şamaxı": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/samax%c4%b1-rayonu/samax%c4%b1-2082/"
+          },
+          "Ağsu": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/agsu-rayonu/agsu-21851/"
+          },
+          "Masallı": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/masall%c4%b1-rayonu/masall%c4%b1-21888/"
+          },
+          "Quba": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/quba-rayonu/quba-23897/"
+          },
+          "Gabala": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/q%c9%99b%c9%99l%c9%99-rayonu/gabala-23898/"
+          },
+          "Vəndam": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/q%c9%99b%c9%99l%c9%99-rayonu/v%c9%99ndam-955092/"
+          },
+          "Qusar": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/qusar-rayonu/qusar-23902/"
+          },
+          "İvanovka": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/ismay%c4%b1ll%c4%b1-rayonu/ivanovka-753101/"
+          },
+          "Vov": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/lerik-rayonu/vov-1058043/"
+          },
+          "Siyov": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/lerik-rayonu/siyov-1058044/"
+          },
+          "Lerik": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/lerik-rayonu/lerik-21890/"
+          },
+          "Şəfəqli": {
+            "url": "https://en.climate-data.org/asia/azerbaijan/yard%c4%b1ml%c4%b1-rayonu/s%c9%99f%c9%99qli-1058042/"
+          }
+        }
+      },
+      "Bahrain": {
+        "url": "https://en.climate-data.org/asia/bahrain-39/",
+        "cities": {
+          "Al-Hidd": {
+            "url": "https://en.climate-data.org/asia/bahrain/muharraq-governorate/al-hidd-767014/"
+          },
+          "Mina Salman": {
+            "url": "https://en.climate-data.org/asia/bahrain/capital-governorate/mina-salman-31566/"
+          },
+          "Manama": {
+            "url": "https://en.climate-data.org/asia/bahrain/capital-governorate/manama-887/"
+          },
+          "Hamad Town": {
+            "url": "https://en.climate-data.org/asia/bahrain/hamad-town/hamad-town-48783/"
+          },
+          "A'ali": {
+            "url": "https://en.climate-data.org/asia/bahrain/central-governorate/a-ali-764401/"
+          }
+        }
+      },
+      "Bangladesh": {
+        "url": "https://en.climate-data.org/asia/bangladesh-166/",
+        "cities": {
+          "Dhaka": {
+            "url": "https://en.climate-data.org/asia/bangladesh/dhaka-division/dhaka-1062098/"
+          },
+          "Comilla": {
+            "url": "https://en.climate-data.org/asia/bangladesh/chittagong-division/comilla-3331/"
+          },
+          "Barisal": {
+            "url": "https://en.climate-data.org/asia/bangladesh/barisal-division/barisal-31711/"
+          },
+          "Bogra": {
+            "url": "https://en.climate-data.org/asia/bangladesh/rajshahi-division/bogra-4306/"
+          },
+          "Tongi": {
+            "url": "https://en.climate-data.org/asia/bangladesh/dhaka-division/tongi-26753/"
+          },
+          "Sylhet": {
+            "url": "https://en.climate-data.org/asia/bangladesh/sylhet-division/sylhet-3248/"
+          },
+          "Chittagong": {
+            "url": "https://en.climate-data.org/asia/bangladesh/chittagong-division/chittagong-4059/"
+          },
+          "Feni": {
+            "url": "https://en.climate-data.org/asia/bangladesh/chittagong-division/feni-699821/"
+          },
+          "St. Martin's Island": {
+            "url": "https://en.climate-data.org/asia/bangladesh/chittagong-division/st-martin-s-island-970192/"
+          },
+          "Panchlaish": {
+            "url": "https://en.climate-data.org/asia/bangladesh/chittagong-division/panchlaish-969789/"
+          },
+          "Rangpur": {
+            "url": "https://en.climate-data.org/asia/bangladesh/rangpur-division/rangpur-4997/"
+          },
+          "Moulovibazaar": {
+            "url": "https://en.climate-data.org/asia/bangladesh/sylhet-division/moulovibazaar-970046/"
+          },
+          "Sreemangal": {
+            "url": "https://en.climate-data.org/asia/bangladesh/sylhet-division/sreemangal-970045/"
+          },
+          "Saidpur": {
+            "url": "https://en.climate-data.org/asia/bangladesh/rangpur-division/saidpur-716699/"
+          },
+          "Birampur": {
+            "url": "https://en.climate-data.org/asia/bangladesh/rangpur-division/birampur-969580/"
+          },
+          "Shibganj": {
+            "url": "https://en.climate-data.org/asia/bangladesh/rajshahi-division/shibganj-969512/"
+          },
+          "Nachole": {
+            "url": "https://en.climate-data.org/asia/bangladesh/rajshahi-division/nachole-969514/"
+          },
+          "Bholarhat": {
+            "url": "https://en.climate-data.org/asia/bangladesh/rajshahi-division/bholarhat-969545/"
+          },
+          "Gomastapur": {
+            "url": "https://en.climate-data.org/asia/bangladesh/rajshahi-division/gomastapur-969546/"
+          },
+          "porsha": {
+            "url": "https://en.climate-data.org/asia/bangladesh/rajshahi-division/porsha-969547/"
+          }
+        }
+      },
+      "Bhutan": {
+        "url": "https://en.climate-data.org/asia/bhutan-74/",
+        "cities": {
+          "Thimphu": {
+            "url": "https://en.climate-data.org/asia/bhutan/thimphu-district/thimphu-5977/"
+          },
+          "Jakar": {
+            "url": "https://en.climate-data.org/asia/bhutan/bumthang-district/jakar-25225/"
+          },
+          "Ha": {
+            "url": "https://en.climate-data.org/asia/bhutan/haa-district/ha-798686/"
+          },
+          "Paro": {
+            "url": "https://en.climate-data.org/asia/bhutan/paro-district/paro-25221/"
+          },
+          "Phobji": {
+            "url": "https://en.climate-data.org/asia/bhutan/wangdue-phodrang-district/phobji-25223/"
+          },
+          "Phuntsholing": {
+            "url": "https://en.climate-data.org/asia/bhutan/samtse-district/phuntsholing-30159/"
+          },
+          "Wangdue Phodrang": {
+            "url": "https://en.climate-data.org/asia/bhutan/wangdue-phodrang-district/wangdue-phodrang-176824/"
+          },
+          "Mongar": {
+            "url": "https://en.climate-data.org/asia/bhutan/mongar-district/mongar-58066/"
+          },
+          "Nganglam": {
+            "url": "https://en.climate-data.org/asia/bhutan/samdrup-jongkhar-district/nganglam-643728/"
+          },
+          "Sarpang": {
+            "url": "https://en.climate-data.org/asia/bhutan/sarpang-district/sarpang-707053/"
+          },
+          "巴德姆扎": {
+            "url": "https://en.climate-data.org/asia/bhutan/haa-district/%e5%b7%b4%e5%be%b7%e5%a7%86%e6%89%8e-969643/"
+          },
+          "Chebisa": {
+            "url": "https://en.climate-data.org/asia/bhutan/thimphu-district/chebisa-755982/"
+          },
+          "Laya": {
+            "url": "https://en.climate-data.org/asia/bhutan/gasa-district/laya-1003253/"
+          },
+          "恰尔塘": {
+            "url": "https://en.climate-data.org/asia/bhutan/haa-district/%e6%81%b0%e5%b0%94%e5%a1%98-969645/"
+          },
+          "Lingshi": {
+            "url": "https://en.climate-data.org/asia/bhutan/thimphu-district/lingshi-1003251/"
+          },
+          "Goyul": {
+            "url": "https://en.climate-data.org/asia/bhutan/thimphu-district/goyul-1003252/"
+          },
+          "夏布": {
+            "url": "https://en.climate-data.org/asia/bhutan/haa-district/%e5%a4%8f%e5%b8%83-969647/"
+          }
+        }
+      },
+      "British Indian Ocean Territory": {
+        "url": "https://en.climate-data.org/asia/british-indian-ocean-territory-123/",
+        "cities": {
+          "Seabreeze Village": {
+            "url": "https://en.climate-data.org/asia/british-indian-ocean-territory/seabreeze-village/seabreeze-village-469285/"
+          },
+          "Camp Justice": {
+            "url": "https://en.climate-data.org/asia/british-indian-ocean-territory/camp-justice/camp-justice-469287/"
+          }
+        }
+      },
+      "Brunei": {
+        "url": "https://en.climate-data.org/asia/brunei-234/",
+        "cities": {
+          "Kuala Belait": {
+            "url": "https://en.climate-data.org/asia/brunei/kuala-belait/kuala-belait-5740/"
+          },
+          "Bandar Seri Begawan": {
+            "url": "https://en.climate-data.org/asia/brunei/bandar-seri-begawan/bandar-seri-begawan-6419/"
+          },
+          "Mata-Mata": {
+            "url": "https://en.climate-data.org/asia/brunei/mata-mata/mata-mata-994192/"
+          },
+          "Jerudong": {
+            "url": "https://en.climate-data.org/asia/brunei/jerudong/jerudong-994191/"
+          },
+          "Seria": {
+            "url": "https://en.climate-data.org/asia/brunei/seria/seria-717883/"
+          }
+        }
+      },
+      "Cambodia": {
+        "url": "https://en.climate-data.org/asia/cambodia-167/",
+        "cities": {
+          "Phnom Penh": {
+            "url": "https://en.climate-data.org/asia/cambodia/phnom-penh/phnom-penh-4857/"
+          },
+          "Battambang": {
+            "url": "https://en.climate-data.org/asia/cambodia/battambang/battambang-3145/"
+          },
+          "Siem Reap": {
+            "url": "https://en.climate-data.org/asia/cambodia/siem-reap/siem-reap-3168/"
+          },
+          "Sen Monorom": {
+            "url": "https://en.climate-data.org/asia/cambodia/mondulkiri/sen-monorom-3147/"
+          },
+          "Kampong Thom": {
+            "url": "https://en.climate-data.org/asia/cambodia/kampong-thom/kampong-thom-3143/"
+          },
+          "Sihanoukville": {
+            "url": "https://en.climate-data.org/asia/cambodia/preah-sihanouk/sihanoukville-3184/"
+          },
+          "Banlung": {
+            "url": "https://en.climate-data.org/asia/cambodia/ratanikiri/banlung-714871/"
+          },
+          "Kampot": {
+            "url": "https://en.climate-data.org/asia/cambodia/kampot/kampot-26390/"
+          },
+          "Kep": {
+            "url": "https://en.climate-data.org/asia/cambodia/kep/kep-26389/"
+          },
+          "Koh Kong": {
+            "url": "https://en.climate-data.org/asia/cambodia/koh-kong/koh-kong-36123/"
+          }
+        }
+      },
+      "China": {
+        "url": "https://en.climate-data.org/asia/china-110/",
+        "cities": {
+          "Shanghai": {
+            "url": "https://en.climate-data.org/asia/china/shanghai/shanghai-5582/"
+          },
+          "Guangzhou": {
+            "url": "https://en.climate-data.org/asia/china/guangdong/guangzhou-2309/"
+          },
+          "Shenzhen": {
+            "url": "https://en.climate-data.org/asia/china/guangdong/shenzhen-1064927/"
+          },
+          "Ganzhou": {
+            "url": "https://en.climate-data.org/asia/china/jiangxi/ganzhou-2299/"
+          },
+          "Nanjing": {
+            "url": "https://en.climate-data.org/asia/china/jiangsu/nanjing-2490/"
+          },
+          "Beijing": {
+            "url": "https://en.climate-data.org/asia/china/beijing/beijing-134/"
+          },
+          "Tianjin": {
+            "url": "https://en.climate-data.org/asia/china/tianjin/tianjin-2606/"
+          },
+          "Jinan": {
+            "url": "https://en.climate-data.org/asia/china/shandong/jinan-2382/"
+          },
+          "Changchun": {
+            "url": "https://en.climate-data.org/asia/china/jilin/changchun-2227/"
+          },
+          "Harbin": {
+            "url": "https://en.climate-data.org/asia/china/heilongjiang/harbin-3488/"
+          },
+          "Daocheng": {
+            "url": "https://en.climate-data.org/asia/china/sichuan/daocheng-45432/"
+          },
+          "Xinduqiao": {
+            "url": "https://en.climate-data.org/asia/china/sichuan/xinduqiao-483085/"
+          },
+          "Linxia": {
+            "url": "https://en.climate-data.org/asia/china/gansu/linxia-2428/"
+          },
+          "Zhangzha": {
+            "url": "https://en.climate-data.org/asia/china/sichuan/zhangzha-715409/"
+          },
+          "Gyamda": {
+            "url": "https://en.climate-data.org/asia/china/tibet-autonomous-region/gyamda-227751/"
+          },
+          "Shijiazhuang": {
+            "url": "https://en.climate-data.org/asia/china/hebei/shijiazhuang-979427/"
+          },
+          "Xi'an": {
+            "url": "https://en.climate-data.org/asia/china/shaanxi/xi-an-2613/"
+          },
+          "Taiyuan": {
+            "url": "https://en.climate-data.org/asia/china/shanxi/taiyuan-2556/"
+          },
+          "Hohhot": {
+            "url": "https://en.climate-data.org/asia/china/inner-mongolia/hohhot-2343/"
+          },
+          "Baotou": {
+            "url": "https://en.climate-data.org/asia/china/inner-mongolia/baotou-2210/"
+          },
+          "Wanyuan": {
+            "url": "https://en.climate-data.org/asia/china/sichuan/wanyuan-2587/"
+          },
+          "Hanzhong": {
+            "url": "https://en.climate-data.org/asia/china/shaanxi/hanzhong-2311/"
+          },
+          "Ankang": {
+            "url": "https://en.climate-data.org/asia/china/shaanxi/ankang-2199/"
+          },
+          "Baoji": {
+            "url": "https://en.climate-data.org/asia/china/shaanxi/baoji-975141/"
+          },
+          "Heihe": {
+            "url": "https://en.climate-data.org/asia/china/heilongjiang/heihe-764747/"
+          },
+          "Manzhouli": {
+            "url": "https://en.climate-data.org/asia/china/inner-mongolia/manzhouli-28539/"
+          },
+          "Hegang": {
+            "url": "https://en.climate-data.org/asia/china/heilongjiang/hegang-2315/"
+          },
+          "Hailun": {
+            "url": "https://en.climate-data.org/asia/china/heilongjiang/hailun-2322/"
+          },
+          "Longjing": {
+            "url": "https://en.climate-data.org/asia/china/jilin/longjing-2434/"
+          },
+          "Taktser": {
+            "url": "https://en.climate-data.org/asia/china/qinghai/taktser-993727/"
+          },
+          "Datan": {
+            "url": "https://en.climate-data.org/asia/china/gansu/datan-855697/"
+          },
+          "Putou Muchang": {
+            "url": "https://en.climate-data.org/asia/china/sichuan/putou-muchang-757454/"
+          },
+          "Bayan": {
+            "url": "https://en.climate-data.org/asia/china/qinghai/bayan-1013314/"
+          },
+          "Fadiaozui": {
+            "url": "https://en.climate-data.org/asia/china/sichuan/fadiaozui-757416/"
+          },
+          "Nyingchi": {
+            "url": "https://en.climate-data.org/asia/china/tibet-autonomous-region/nyingchi-227757/"
+          },
+          "Shangri-La": {
+            "url": "https://en.climate-data.org/asia/china/sichuan/shangri-la-759382/"
+          },
+          "Yuanjiagou": {
+            "url": "https://en.climate-data.org/asia/china/gansu/yuanjiagou-856492/"
+          },
+          "Xialiu": {
+            "url": "https://en.climate-data.org/asia/china/gansu/xialiu-1062840/"
+          },
+          "Daqiao": {
+            "url": "https://en.climate-data.org/asia/china/yunnan/daqiao-47913/"
+          }
+        }
+      }
+    }
+  },
+  "Oceania": {
+    "url": "https://en.climate-data.org/continent/oceania/",
+    "countries": {
+      "Australia": {
+        "url": "https://en.climate-data.org/oceania/australia-140/",
+        "cities": {
+          "Sydney": {
+            "url": "https://en.climate-data.org/oceania/australia/new-south-wales/sydney-24/"
+          },
+          "Brisbane": {
+            "url": "https://en.climate-data.org/oceania/australia/queensland/brisbane-6171/"
+          },
+          "Newcastle": {
+            "url": "https://en.climate-data.org/oceania/australia/new-south-wales/newcastle-169/"
+          },
+          "Wollongong": {
+            "url": "https://en.climate-data.org/oceania/australia/new-south-wales/wollongong-74/"
+          },
+          "Ipswich": {
+            "url": "https://en.climate-data.org/oceania/australia/queensland/ipswich-112/"
+          },
+          "Melbourne": {
+            "url": "https://en.climate-data.org/oceania/australia/victoria/melbourne-764100/"
+          },
+          "Canberra": {
+            "url": "https://en.climate-data.org/oceania/australia/australian-capital-territory/canberra-118/"
+          },
+          "Hobart": {
+            "url": "https://en.climate-data.org/oceania/australia/tasmania/hobart-1017/"
+          },
+          "Geelong": {
+            "url": "https://en.climate-data.org/oceania/australia/victoria/geelong-883/"
+          },
+          "Launceston": {
+            "url": "https://en.climate-data.org/oceania/australia/tasmania/launceston-2767/"
+          },
+          "Mildura": {
+            "url": "https://en.climate-data.org/oceania/australia/victoria/mildura-660/"
+          },
+          "Kerang": {
+            "url": "https://en.climate-data.org/oceania/australia/victoria/kerang-15798/"
+          },
+          "Hay": {
+            "url": "https://en.climate-data.org/oceania/australia/new-south-wales/hay-718375/"
+          },
+          "Kimba": {
+            "url": "https://en.climate-data.org/oceania/australia/south-australia/kimba-764896/"
+          },
+          "Whyalla": {
+            "url": "https://en.climate-data.org/oceania/australia/south-australia/whyalla-3048/"
+          },
+          "Albany": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/albany-764865/"
+          },
+          "Warrnambool": {
+            "url": "https://en.climate-data.org/oceania/australia/victoria/warrnambool-764103/"
+          },
+          "Busselton": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/busselton-14627/"
+          },
+          "Victor Harbor": {
+            "url": "https://en.climate-data.org/oceania/australia/south-australia/victor-harbor-764099/"
+          },
+          "Port Fairy": {
+            "url": "https://en.climate-data.org/oceania/australia/victoria/port-fairy-764976/"
+          },
+          "Alice Springs": {
+            "url": "https://en.climate-data.org/oceania/australia/northern-territory/alice-springs-586/"
+          },
+          "Mount Isa": {
+            "url": "https://en.climate-data.org/oceania/australia/queensland/mount-isa-2909/"
+          },
+          "Broome": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/broome-990/"
+          },
+          "Charters Towers": {
+            "url": "https://en.climate-data.org/oceania/australia/queensland/charters-towers-764121/"
+          },
+          "Carnarvon": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/carnarvon-1194/"
+          },
+          "Perth": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/perth-582/"
+          },
+          "Adelaide": {
+            "url": "https://en.climate-data.org/oceania/australia/south-australia/adelaide-5696/"
+          },
+          "Mandurah": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/mandurah-760/"
+          },
+          "Bunbury": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/bunbury-761/"
+          },
+          "Geraldton": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/geraldton-863/"
+          },
+          "Port Hedland": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/port-hedland-913/"
+          },
+          "Roxby Downs": {
+            "url": "https://en.climate-data.org/oceania/australia/south-australia/roxby-downs-764904/"
+          },
+          "Exmouth": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/exmouth-30413/"
+          },
+          "Karratha Industrial Estate": {
+            "url": "https://en.climate-data.org/oceania/australia/western-australia/karratha-industrial-estate-1064964/"
+          },
+          "Port Augusta": {
+            "url": "https://en.climate-data.org/oceania/australia/south-australia/port-augusta-588/"
+          },
+          "Townsville": {
+            "url": "https://en.climate-data.org/oceania/australia/queensland/townsville-719/"
+          },
+          "Darwin": {
+            "url": "https://en.climate-data.org/oceania/australia/northern-territory/darwin-6322/"
+          },
+          "Jabiru": {
+            "url": "https://en.climate-data.org/oceania/australia/northern-territory/jabiru-32210/"
+          },
+          "Karumba": {
+            "url": "https://en.climate-data.org/oceania/australia/queensland/karumba-765361/"
+          },
+          "Adelaide River": {
+            "url": "https://en.climate-data.org/oceania/australia/northern-territory/adelaide-river-10002/"
+          }
+        }
+      },
+      "Cook Islands": {
+        "url": "https://en.climate-data.org/oceania/cook-islands-17/",
+        "cities": {
+          "Avarua": {
+            "url": "https://en.climate-data.org/oceania/cook-islands/avarua/avarua-3314/"
+          },
+          "Rarotonga Muri": {
+            "url": "https://en.climate-data.org/oceania/cook-islands/rarotonga-muri/rarotonga-muri-27661/"
+          },
+          "Vaipeka": {
+            "url": "https://en.climate-data.org/oceania/cook-islands/vaipeka/vaipeka-871450/"
+          },
+          "Tautu": {
+            "url": "https://en.climate-data.org/oceania/cook-islands/tautu/tautu-871443/"
+          },
+          "Reureu": {
+            "url": "https://en.climate-data.org/oceania/cook-islands/reureu/reureu-871444/"
+          }
+        }
+      },
+      "Federated States of Micronesia": {
+        "url": "https://en.climate-data.org/oceania/federated-states-of-micronesia-79/",
+        "cities": {
+          "Colonia": {
+            "url": "https://en.climate-data.org/oceania/federated-states-of-micronesia/yap/colonia-32230/"
+          },
+          "Kolonia": {
+            "url": "https://en.climate-data.org/oceania/federated-states-of-micronesia/pohnpei/kolonia-986706/"
+          },
+          "Magachgil": {
+            "url": "https://en.climate-data.org/oceania/federated-states-of-micronesia/yap/magachgil-226492/"
+          },
+          "Ngoof": {
+            "url": "https://en.climate-data.org/oceania/federated-states-of-micronesia/yap/ngoof-1017641/"
+          },
+          "Kanif": {
+            "url": "https://en.climate-data.org/oceania/federated-states-of-micronesia/yap/kanif-1017642/"
+          }
+        }
+      },
+      "Fiji": {
+        "url": "https://en.climate-data.org/oceania/fiji-119/",
+        "cities": {
+          "Suva": {
+            "url": "https://en.climate-data.org/oceania/fiji/suva/suva-764126/"
+          },
+          "Labasa": {
+            "url": "https://en.climate-data.org/oceania/fiji/labasa/labasa-27805/"
+          },
+          "Sigatoka": {
+            "url": "https://en.climate-data.org/oceania/fiji/sigatoka/sigatoka-26534/"
+          },
+          "Savusavu": {
+            "url": "https://en.climate-data.org/oceania/fiji/savusavu/savusavu-46842/"
+          },
+          "Tavua Town": {
+            "url": "https://en.climate-data.org/oceania/fiji/tavua-town/tavua-town-765412/"
+          },
+          "Lautoka": {
+            "url": "https://en.climate-data.org/oceania/fiji/lautoka/lautoka-3187/"
+          },
+          "Nadi": {
+            "url": "https://en.climate-data.org/oceania/fiji/nadi/nadi-714849/"
+          },
+          "Ba": {
+            "url": "https://en.climate-data.org/oceania/fiji/ba/ba-27438/"
+          },
+          "Nacula": {
+            "url": "https://en.climate-data.org/oceania/fiji/nacula/nacula-775059/"
+          },
+          "Soso": {
+            "url": "https://en.climate-data.org/oceania/fiji/soso/soso-986853/"
+          }
+        }
+      },
+      "Kiribati": {
+        "url": "https://en.climate-data.org/oceania/kiribati-174/",
+        "cities": {
+          "Abatiku": {
+            "url": "https://en.climate-data.org/oceania/kiribati/abatiku/abatiku-685256/"
+          },
+          "Kabangaki": {
+            "url": "https://en.climate-data.org/oceania/kiribati/kabangaki/kabangaki-685257/"
+          },
+          "Manoku": {
+            "url": "https://en.climate-data.org/oceania/kiribati/manoku/manoku-685258/"
+          },
+          "Tokamauea": {
+            "url": "https://en.climate-data.org/oceania/kiribati/tokamauea/tokamauea-685260/"
+          },
+          "Tanimainiku": {
+            "url": "https://en.climate-data.org/oceania/kiribati/tanimainiku/tanimainiku-685259/"
+          },
+          "Tebaronga": {
+            "url": "https://en.climate-data.org/oceania/kiribati/tebaronga/tebaronga-718688/"
+          }
+        }
+      },
+      "Marshall Islands": {
+        "url": "https://en.climate-data.org/oceania/marshall-islands-102/",
+        "cities": {
+          "Majuro": {
+            "url": "https://en.climate-data.org/oceania/marshall-islands/majuro/majuro-4329/"
+          },
+          "Jabor": {
+            "url": "https://en.climate-data.org/oceania/marshall-islands/jabor/jabor-986796/"
+          },
+          "Laura": {
+            "url": "https://en.climate-data.org/oceania/marshall-islands/laura/laura-986805/"
+          },
+          "Ine": {
+            "url": "https://en.climate-data.org/oceania/marshall-islands/ine/ine-986806/"
+          }
+        }
+      },
+      "Nauru": {
+        "url": "https://en.climate-data.org/oceania/nauru-54/",
+        "cities": {
+          "Yaren": {
+            "url": "https://en.climate-data.org/oceania/nauru/yaren/yaren-788661/"
+          },
+          "Buada": {
+            "url": "https://en.climate-data.org/oceania/nauru/buada/buada-222606/"
+          },
+          "Orro": {
+            "url": "https://en.climate-data.org/oceania/nauru/orro/orro-222605/"
+          },
+          "Arijejen": {
+            "url": "https://en.climate-data.org/oceania/nauru/arijejen/arijejen-653294/"
+          },
+          "Ibwenape": {
+            "url": "https://en.climate-data.org/oceania/nauru/ibwenape/ibwenape-653295/"
+          }
+        }
+      },
+      "New Zealand": {
+        "url": "https://en.climate-data.org/oceania/new-zealand-9/",
+        "cities": {
+          "Auckland": {
+            "url": "https://en.climate-data.org/oceania/new-zealand/auckland/auckland-3605/"
+          },
+          "Christchurch": {
+            "url": "https://en.climate-data.org/oceania/new-zealand/canterbury/christchurch-4978/"
+          },
+          "Wellington": {
+            "url": "https://en.climate-data.org/oceania/new-zealand/wellington/wellington-2/"
+          },
+          "Hamilton": {
+            "url": "https://en.climate-data.org/oceania/new-zealand/waikato/hamilton-1075/"
+          },
+          "Tauranga": {
+            "url": "https://en.climate-data.org/oceania/new-zealand/bay-of-plenty/tauranga-1037/"
+          },
+          "Iwikau": {
+            "url": "https://en.climate-data.org/oceania/new-zealand/manawatu-wanganui/iwikau-60511/"
+          }
+        }
+      },
+      "Niue": {
+        "url": "https://en.climate-data.org/oceania/niue-199/",
+        "cities": {
+          "Toi": {
+            "url": "https://en.climate-data.org/oceania/niue/toi/toi-554846/"
+          },
+          "Hikutavake": {
+            "url": "https://en.climate-data.org/oceania/niue/hikutavake/hikutavake-331070/"
+          },
+          "Hakupu": {
+            "url": "https://en.climate-data.org/oceania/niue/hakupu/hakupu-554841/"
+          },
+          "Liku": {
+            "url": "https://en.climate-data.org/oceania/niue/liku/liku-331073/"
+          },
+          "Namukulu": {
+            "url": "https://en.climate-data.org/oceania/niue/namukulu/namukulu-554843/"
+          }
+        }
+      },
+      "Palau": {
+        "url": "https://en.climate-data.org/oceania/palau-222/",
+        "cities": {
+          "Palau": {
+            "url": "https://en.climate-data.org/oceania/palau/palau/palau-3442/"
+          },
+          "Koror": {
+            "url": "https://en.climate-data.org/oceania/palau/koror/koror-6761/"
+          },
+          "Ngetkib": {
+            "url": "https://en.climate-data.org/oceania/palau/ngetkib/ngetkib-510683/"
+          },
+          "Ngerusar": {
+            "url": "https://en.climate-data.org/oceania/palau/ngerusar/ngerusar-510679/"
+          },
+          "Ngeruluobel": {
+            "url": "https://en.climate-data.org/oceania/palau/ngeruluobel/ngeruluobel-510680/"
+          }
+        }
+      }
+    }
+  }
+}
